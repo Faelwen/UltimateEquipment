@@ -1,0 +1,59 @@
+Weapons :
+
+"Weapon"
+Lib type
+Lib subtype
+Subtype 1
+Subtype 2
+Name
+Cost
+Damage S
+Damage M
+Critical
+Range
+Weight
+Damage type
+Properties
+Description
+Bonus
+CL
+Crafting reqs
+Aura
+
+
+
+
+Armor :
+Lib type
+Lib subtype
+"Armor"
+Subtype
+Name
+Cost
+Armor Bonus
+Max dex bonus
+Armor penalty
+arcane spell failure
+Speed 30
+Speed 20
+Weight
+Description
+Bonus
+CL
+Crafting reqs
+Aura
+
+
+
+Items :
+Lib type
+Lib subtype
+Type
+Subtype
+Name
+Cost
+CL
+Weight
+Description
+Crafting reqs
+Aura

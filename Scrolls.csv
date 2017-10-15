@@ -1,0 +1,957 @@
+Name	Cost	Lvl	CL	Type
+Scroll (Acid splash)	12 gp 5 sp	0	1	Arcane
+Scroll (Daze)	12 gp 5 sp	0	1	Arcane
+Scroll (Detect magic)	12 gp 5 sp	0	1	Arcane
+Scroll (Flare)	12 gp 5 sp	0	1	Arcane
+Scroll (Light)	12 gp 5 sp	0	1	Arcane
+Scroll (Mage hand)	12 gp 5 sp	0	1	Arcane
+Scroll (Mending)	12 gp 5 sp	0	1	Arcane
+Scroll (Prestidigitation)	12 gp 5 sp	0	1	Arcane
+Scroll (Ray of frost)	12 gp 5 sp	0	1	Arcane
+Scroll (Read magic)	12 gp 5 sp	0	1	Arcane
+Scroll (Touch of fatigue)	12 gp 5 sp	0	1	Arcane
+Scroll (Arcane mark)	12 gp 5 sp	0	1	Arcane
+Scroll (Bleed)	12 gp 5 sp	0	1	Arcane
+Scroll (Dancing lights)	12 gp 5 sp	0	1	Arcane
+Scroll (Detect poison)	12 gp 5 sp	0	1	Arcane
+Scroll (Disrupt undead)	12 gp 5 sp	0	1	Arcane
+Scroll (Ghost sound)	12 gp 5 sp	0	1	Arcane
+Scroll (Message)	12 gp 5 sp	0	1	Arcane
+Scroll (Open/close)	12 gp 5 sp	0	1	Arcane
+Scroll (Resistance)	12 gp 5 sp	0	1	Arcane
+Scroll (Sift)	12 gp 5 sp	0	1	Arcane
+Scroll (Spark)	12 gp 5 sp	0	1	Arcane
+Scroll (Unwitting ally)	12 gp 5 sp	0	1	Arcane
+Scroll (Burning hands)	25 gp	1	1	Arcane
+Scroll (Cause fear)	25 gp	1	1	Arcane
+Scroll (Charm person)	25 gp	1	1	Arcane
+Scroll (Chill touch)	25 gp	1	1	Arcane
+Scroll (Disguise self)	25 gp	1	1	Arcane
+Scroll (Endure elements)	25 gp	1	1	Arcane
+Scroll (Enlarge person)	25 gp	1	1	Arcane
+Scroll (Expeditious retreat)	25 gp	1	1	Arcane
+Scroll (Grease)	25 gp	1	1	Arcane
+Scroll (Hypnotism)	25 gp	1	1	Arcane
+Scroll (Identify)	25 gp	1	1	Arcane
+Scroll (Mage armor)	25 gp	1	1	Arcane
+Scroll (Magic missile)	25 gp	1	1	Arcane
+Scroll (Magic weapon)	25 gp	1	1	Arcane
+Scroll (Obscuring mist)	25 gp	1	1	Arcane
+Scroll (Protection from chaos)	25 gp	1	1	Arcane
+Scroll (Protection from evil)	25 gp	1	1	Arcane
+Scroll (Protection from good)	25 gp	1	1	Arcane
+Scroll (Protection from law)	25 gp	1	1	Arcane
+Scroll (Ray of enfeeblement)	25 gp	1	1	Arcane
+Scroll (Shield)	25 gp	1	1	Arcane
+Scroll (Shocking grasp)	25 gp	1	1	Arcane
+Scroll (Silent image)	25 gp	1	1	Arcane
+Scroll (Sleep)	25 gp	1	1	Arcane
+Scroll (Summon monster I)	25 gp	1	1	Arcane
+Scroll (True strike)	25 gp	1	1	Arcane
+Scroll (Air bubble)	25 gp	1	1	Arcane
+Scroll (Alarm)	25 gp	1	1	Arcane
+Scroll (Animate rope)	25 gp	1	1	Arcane
+Scroll (Ant haul)	25 gp	1	1	Arcane
+Scroll (Blend)	25 gp	1	1	Arcane
+Scroll (Break)	25 gp	1	1	Arcane
+Scroll (Color spray)	25 gp	1	1	Arcane
+Scroll (Comprehend languages)	25 gp	1	1	Arcane
+Scroll (Corrosive touch)	25 gp	1	1	Arcane
+Scroll (Detect secret doors)	25 gp	1	1	Arcane
+Scroll (Detect undead)	25 gp	1	1	Arcane
+Scroll (Erase)	25 gp	1	1	Arcane
+Scroll (Flare burst)	25 gp	1	1	Arcane
+Scroll (Floating disk)	25 gp	1	1	Arcane
+Scroll (Hold portal)	25 gp	1	1	Arcane
+Scroll (Hydraulic push)	25 gp	1	1	Arcane
+Scroll (Icicle dagger)	25 gp	1	1	Arcane
+Scroll (Illusion of calm)	25 gp	1	1	Arcane
+Scroll (Jump)	25 gp	1	1	Arcane
+Scroll (Magic aura)	25 gp	1	1	Arcane
+Scroll (Mirror strike)	25 gp	1	1	Arcane
+Scroll (Mount)	25 gp	1	1	Arcane
+Scroll (Ray of sickening)	25 gp	1	1	Arcane
+Scroll (Reduce person)	25 gp	1	1	Arcane
+Scroll (Shadow weapon)	25 gp	1	1	Arcane
+Scroll (Shock shield)	25 gp	1	1	Arcane
+Scroll (Stone fist)	25 gp	1	1	Arcane
+Scroll (Touch of the sea)	25 gp	1	1	Arcane
+Scroll (Unseen servant)	25 gp	1	1	Arcane
+Scroll (Urban grace)	25 gp	1	1	Arcane
+Scroll (Vanish)	25 gp	1	1	Arcane
+Scroll (Ventriloquism)	25 gp	1	1	Arcane
+Scroll (Voice alteration)	25 gp	1	1	Arcane
+Scroll (Acid arrow)	150 gp	2	3	Arcane
+Scroll (Alter self)	150 gp	2	3	Arcane
+Scroll (Bear's endurance)	150 gp	2	3	Arcane
+Scroll (Blur)	150 gp	2	3	Arcane
+Scroll (Bull's strength)	150 gp	2	3	Arcane
+Scroll (Cat's grace)	150 gp	2	3	Arcane
+Scroll (Darkness)	150 gp	2	3	Arcane
+Scroll (Darkvision)	150 gp	2	3	Arcane
+Scroll (Eagle's splendor)	150 gp	2	3	Arcane
+Scroll (False life)	150 gp	2	3	Arcane
+Scroll (Flaming sphere)	150 gp	2	3	Arcane
+Scroll (Fox's cunning)	150 gp	2	3	Arcane
+Scroll (Glitterdust)	150 gp	2	3	Arcane
+Scroll (Invisibility)	150 gp	2	3	Arcane
+Scroll (Knock)	150 gp	2	3	Arcane
+Scroll (Levitate)	150 gp	2	3	Arcane
+Scroll (Minor image)	150 gp	2	3	Arcane
+Scroll (Mirror image)	150 gp	2	3	Arcane
+Scroll (Owl's wisdom)	150 gp	2	3	Arcane
+Scroll (Resist energy)	150 gp	2	3	Arcane
+Scroll (Rope trick)	150 gp	2	3	Arcane
+Scroll (Scorching ray)	150 gp	2	3	Arcane
+Scroll (See invisibility)	150 gp	2	3	Arcane
+Scroll (Shatter)	150 gp	2	3	Arcane
+Scroll (Spider climb)	150 gp	2	3	Arcane
+Scroll (Summon monster II)	150 gp	2	3	Arcane
+Scroll (Summon swarm)	150 gp	2	3	Arcane
+Scroll (Web)	150 gp	2	3	Arcane
+Scroll (Whispering wind)	150 gp	2	3	Arcane
+Scroll (Bestow weapon proficiency)	150 gp	2	3	Arcane
+Scroll (Blindness/deafness)	150 gp	2	3	Arcane
+Scroll (Burning gaze)	150 gp	2	3	Arcane
+Scroll (Certain grip)	150 gp	2	3	Arcane
+Scroll (Command undead)	150 gp	2	3	Arcane
+Scroll (Create pit)	150 gp	2	3	Arcane
+Scroll (Daze monster)	150 gp	2	3	Arcane
+Scroll (Detect thoughts)	150 gp	2	3	Arcane
+Scroll (Disguise other)	150 gp	2	3	Arcane
+Scroll (Elemental touch)	150 gp	2	3	Arcane
+Scroll (Fire breath)	150 gp	2	3	Arcane
+Scroll (Fog cloud)	150 gp	2	3	Arcane
+Scroll (Ghoul touch)	150 gp	2	3	Arcane
+Scroll (Glide)	150 gp	2	3	Arcane
+Scroll (Gust of wind)	150 gp	2	3	Arcane
+Scroll (Haunting mists)	150 gp	2	3	Arcane
+Scroll (Hideous laughter)	150 gp	2	3	Arcane
+Scroll (Hypnotic pattern)	150 gp	2	3	Arcane
+Scroll (Locate object)	150 gp	2	3	Arcane
+Scroll (Make whole)	150 gp	2	3	Arcane
+Scroll (Misdirection)	150 gp	2	3	Arcane
+Scroll (Obscure object)	150 gp	2	3	Arcane
+Scroll (Pernicious poison)	150 gp	2	3	Arcane
+Scroll (Protection from arrows)	150 gp	2	3	Arcane
+Scroll (Pyrotechnics)	150 gp	2	3	Arcane
+Scroll (Returning weapon)	150 gp	2	3	Arcane
+Scroll (Scare)	150 gp	2	3	Arcane
+Scroll (Shadow anchor)	150 gp	2	3	Arcane
+Scroll (Share memory)	150 gp	2	3	Arcane
+Scroll (Slipstream)	150 gp	2	3	Arcane
+Scroll (Spectral hand)	150 gp	2	3	Arcane
+Scroll (Spontaneous immolation)	150 gp	2	3	Arcane
+Scroll (Touch of idiocy)	150 gp	2	3	Arcane
+Scroll (Unshakable chill)	150 gp	2	3	Arcane
+Scroll (Magic mouth)	160 gp	2	3	Arcane
+Scroll (Arcane lock)	175 gp	2	3	Arcane
+Scroll (Continual flame)	200 gp	2	3	Arcane
+Scroll (Phantom trap)	200 gp	2	3	Arcane
+Scroll (Beast shape I)	375 gp	3	5	Arcane
+Scroll (Blink)	375 gp	3	5	Arcane
+Scroll (Dispel magic)	375 gp	3	5	Arcane
+Scroll (Displacement)	375 gp	3	5	Arcane
+Scroll (Fireball)	375 gp	3	5	Arcane
+Scroll (Flame arrow)	375 gp	3	5	Arcane
+Scroll (Fly)	375 gp	3	5	Arcane
+Scroll (Gaseous form)	375 gp	3	5	Arcane
+Scroll (Haste)	375 gp	3	5	Arcane
+Scroll (Heroism)	375 gp	3	5	Arcane
+Scroll (Hold person)	375 gp	3	5	Arcane
+Scroll (Invisibility sphere)	375 gp	3	5	Arcane
+Scroll (Lightning bolt)	375 gp	3	5	Arcane
+Scroll (Magic circle against chaos)	375 gp	3	5	Arcane
+Scroll (Magic circle against evil)	375 gp	3	5	Arcane
+Scroll (Magic circle against good)	375 gp	3	5	Arcane
+Scroll (Magic circle against law)	375 gp	3	5	Arcane
+Scroll (Major image)	375 gp	3	5	Arcane
+Scroll (Phantom steed)	375 gp	3	5	Arcane
+Scroll (Protection from energy)	375 gp	3	5	Arcane
+Scroll (Slow)	375 gp	3	5	Arcane
+Scroll (Stinking cloud)	375 gp	3	5	Arcane
+Scroll (Suggestion)	375 gp	3	5	Arcane
+Scroll (Summon monster III)	375 gp	3	5	Arcane
+Scroll (Tiny hut)	375 gp	3	5	Arcane
+Scroll (Tongues)	375 gp	3	5	Arcane
+Scroll (Vampiric touch)	375 gp	3	5	Arcane
+Scroll (Water breathing)	375 gp	3	5	Arcane
+Scroll (Animate dead, lesser)	375 gp	3	5	Arcane
+Scroll (Aqueous orb)	375 gp	3	5	Arcane
+Scroll (Arcane sight)	375 gp	3	5	Arcane
+Scroll (Beast shape)	375 gp	3	5	Arcane
+Scroll (Clairaudience/clairvoyance)	375 gp	3	5	Arcane
+Scroll (Cloak of winds)	375 gp	3	5	Arcane
+Scroll (Daylight)	375 gp	3	5	Arcane
+Scroll (Deep slumber)	375 gp	3	5	Arcane
+Scroll (Distracting cacophony)	375 gp	3	5	Arcane
+Scroll (Draconic reservoir)	375 gp	3	5	Arcane
+Scroll (Elemental aura)	375 gp	3	5	Arcane
+Scroll (Explosive runes)	375 gp	3	5	Arcane
+Scroll (Force punch)	375 gp	3	5	Arcane
+Scroll (Gentle repose)	375 gp	3	5	Arcane
+Scroll (Halt undead)	375 gp	3	5	Arcane
+Scroll (Healing thief)	375 gp	3	5	Arcane
+Scroll (Hydraulic torrent)	375 gp	3	5	Arcane
+Scroll (Keen edge)	375 gp	3	5	Arcane
+Scroll (Magic weapon, greater)	375 gp	3	5	Arcane
+Scroll (Monstrous physique I)	375 gp	3	5	Arcane
+Scroll (Rage)	375 gp	3	5	Arcane
+Scroll (Ray of exhaustion)	375 gp	3	5	Arcane
+Scroll (Resinous skin)	375 gp	3	5	Arcane
+Scroll (Resist energy, communal)	375 gp	3	5	Arcane
+Scroll (Secret page)	375 gp	3	5	Arcane
+Scroll (Shrink item)	375 gp	3	5	Arcane
+Scroll (Sleet storm)	375 gp	3	5	Arcane
+Scroll (Spiked pit)	375 gp	3	5	Arcane
+Scroll (Undead anatomy I)	375 gp	3	5	Arcane
+Scroll (Versatile weapon)	375 gp	3	5	Arcane
+Scroll (Wind wall)	375 gp	3	5	Arcane
+Scroll (Illusory script)	425 gp	3	5	Arcane
+Scroll (Nondetection)	425 gp	3	5	Arcane
+Scroll (Sepia snake sigil)	875 gp	3	5	Arcane
+Scroll (Beast shape II)	700 gp	4	7	Arcane
+Scroll (Bestow curse)	700 gp	4	7	Arcane
+Scroll (Black tentacles)	700 gp	4	7	Arcane
+Scroll (Charm monster)	700 gp	4	7	Arcane
+Scroll (Confusion)	700 gp	4	7	Arcane
+Scroll (Crushing despair)	700 gp	4	7	Arcane
+Scroll (Dimension door)	700 gp	4	7	Arcane
+Scroll (Dimensional anchor)	700 gp	4	7	Arcane
+Scroll (Elemental body I)	700 gp	4	7	Arcane
+Scroll (Enervation)	700 gp	4	7	Arcane
+Scroll (Enlarge person, mass)	700 gp	4	7	Arcane
+Scroll (Fear)	700 gp	4	7	Arcane
+Scroll (Fire shield)	700 gp	4	7	Arcane
+Scroll (Ice storm)	700 gp	4	7	Arcane
+Scroll (Invisibility, greater)	700 gp	4	7	Arcane
+Scroll (Phantasmal killer)	700 gp	4	7	Arcane
+Scroll (Resilient sphere)	700 gp	4	7	Arcane
+Scroll (Scrying)	700 gp	4	7	Arcane
+Scroll (Shadow conjuration)	700 gp	4	7	Arcane
+Scroll (Shout)	700 gp	4	7	Arcane
+Scroll (Solid fog)	700 gp	4	7	Arcane
+Scroll (Stone shape)	700 gp	4	7	Arcane
+Scroll (Summon monster IV)	700 gp	4	7	Arcane
+Scroll (Wall of fire)	700 gp	4	7	Arcane
+Scroll (Wall of ice)	700 gp	4	7	Arcane
+Scroll (Stoneskin)	950 gp	4	7	Arcane
+Scroll (Animate dead)	1050 gp	4	7	Arcane
+Scroll (Acid pit)	700 gp	4	7	Arcane
+Scroll (Arcane eye)	700 gp	4	7	Arcane
+Scroll (Ball lightning)	700 gp	4	7	Arcane
+Scroll (Contagion)	700 gp	4	7	Arcane
+Scroll (Darkvision, greater)	700 gp	4	7	Arcane
+Scroll (Detect scrying)	700 gp	4	7	Arcane
+Scroll (Dragon's breath)	700 gp	4	7	Arcane
+Scroll (False life, greater)	700 gp	4	7	Arcane
+Scroll (Firefall)	700 gp	4	7	Arcane
+Scroll (Geas, lesser)	700 gp	4	7	Arcane
+Scroll (Ghost wolf)	700 gp	4	7	Arcane
+Scroll (Hallucinatory terrain)	700 gp	4	7	Arcane
+Scroll (Illusory wall)	700 gp	4	7	Arcane
+Scroll (Locate creature)	700 gp	4	7	Arcane
+Scroll (Minor creation)	700 gp	4	7	Arcane
+Scroll (Monstrous physique II)	700 gp	4	7	Arcane
+Scroll (Obsidian flow)	700 gp	4	7	Arcane
+Scroll (Phantom chariot)	700 gp	4	7	Arcane
+Scroll (Rainbow pattern)	700 gp	4	7	Arcane
+Scroll (Reduce person, mass)	700 gp	4	7	Arcane
+Scroll (Remove curse)	700 gp	4	7	Arcane
+Scroll (Secure shelter)	700 gp	4	7	Arcane
+Scroll (Shadow projection)	700 gp	4	7	Arcane
+Scroll (Shocking image)	700 gp	4	7	Arcane
+Scroll (Telekinetic charge)	700 gp	4	7	Arcane
+Scroll (True form)	700 gp	4	7	Arcane
+Scroll (Vermin shape I)	700 gp	4	7	Arcane
+Scroll (Volcanic storm)	700 gp	4	7	Arcane
+Scroll (Wandering star motes)	700 gp	4	7	Arcane
+Scroll (Fire trap)	725 gp	4	7	Arcane
+Scroll (Mnemonic enhancer)	750 gp	4	7	Arcane
+Scroll (Baleful polymorph)	1125 gp	5	9	Arcane
+Scroll (Beast shape III)	1125 gp	5	9	Arcane
+Scroll (Break enchantment)	1125 gp	5	9	Arcane
+Scroll (Cloudkill)	1125 gp	5	9	Arcane
+Scroll (Cone of cold)	1125 gp	5	9	Arcane
+Scroll (Contact other plane)	1125 gp	5	9	Arcane
+Scroll (Dismissal)	1125 gp	5	9	Arcane
+Scroll (Dominate person)	1125 gp	5	9	Arcane
+Scroll (Feeblemind)	1125 gp	5	9	Arcane
+Scroll (Hold monster)	1125 gp	5	9	Arcane
+Scroll (Magic jar)	1125 gp	5	9	Arcane
+Scroll (Mind fog)	1125 gp	5	9	Arcane
+Scroll (Overland flight)	1125 gp	5	9	Arcane
+Scroll (Passwall)	1125 gp	5	9	Arcane
+Scroll (Permanency)	1125 gp	5	9	Arcane
+Scroll (Planar binding, lesser)	1125 gp	5	9	Arcane
+Scroll (Polymorph)	1125 gp	5	9	Arcane
+Scroll (Sending)	1125 gp	5	9	Arcane
+Scroll (Shadow evocation)	1125 gp	5	9	Arcane
+Scroll (Summon monster V)	1125 gp	5	9	Arcane
+Scroll (Telekinesis)	1125 gp	5	9	Arcane
+Scroll (Teleport)	1125 gp	5	9	Arcane
+Scroll (Wall of force)	1125 gp	5	9	Arcane
+Scroll (Wall of stone)	1125 gp	5	9	Arcane
+Scroll (Waves of fatigue)	1125 gp	5	9	Arcane
+Scroll (Symbol of pain)	2125 gp	5	9	Arcane
+Scroll (Symbol of sleep)	2125 gp	5	9	Arcane
+Scroll (Absorb toxicity)	1125 gp	5	9	Arcane
+Scroll (Animal growth)	1125 gp	5	9	Arcane
+Scroll (Blight)	1125 gp	5	9	Arcane
+Scroll (Dream)	1125 gp	5	9	Arcane
+Scroll (Elemental body II)	1125 gp	5	9	Arcane
+Scroll (Fabricate)	1125 gp	5	9	Arcane
+Scroll (Fire snake)	1125 gp	5	9	Arcane
+Scroll (Hostile juxtaposition)	1125 gp	5	9	Arcane
+Scroll (Hungry pit)	1125 gp	5	9	Arcane
+Scroll (Icy prison)	1125 gp	5	9	Arcane
+Scroll (Interposing hand)	1125 gp	5	9	Arcane
+Scroll (Life bubble)	1125 gp	5	9	Arcane
+Scroll (Mage's faithful hound)	1125 gp	5	9	Arcane
+Scroll (Mage's private sanctum)	1125 gp	5	9	Arcane
+Scroll (Major creation)	1125 gp	5	9	Arcane
+Scroll (Mirage arcana)	1125 gp	5	9	Arcane
+Scroll (Monstrous physique III)	1125 gp	5	9	Arcane
+Scroll (Nightmare)	1125 gp	5	9	Arcane
+Scroll (Persistent image)	1125 gp	5	9	Arcane
+Scroll (Planar adaptation)	1125 gp	5	9	Arcane
+Scroll (Plant shape I)	1125 gp	5	9	Arcane
+Scroll (Prying eyes)	1125 gp	5	9	Arcane
+Scroll (Secret chest)	1125 gp	5	9	Arcane
+Scroll (Seeming)	1125 gp	5	9	Arcane
+Scroll (Sonic thrust)	1125 gp	5	9	Arcane
+Scroll (Suffocation)	1125 gp	5	9	Arcane
+Scroll (Telepathic bond)	1125 gp	5	9	Arcane
+Scroll (Transmute mud to rock)	1125 gp	5	9	Arcane
+Scroll (Transmute rock to mud)	1125 gp	5	9	Arcane
+Scroll (Undead anatomy II)	1125 gp	5	9	Arcane
+Scroll (Vermin form II)	1125 gp	5	9	Arcane
+Scroll (Wind blades)	1125 gp	5	9	Arcane
+Scroll (False vision)	1375 gp	5	9	Arcane
+Scroll (Acid fog)	1650 gp	6	11	Arcane
+Scroll (Antimagic field)	1650 gp	6	11	Arcane
+Scroll (Bear's endurance, mass)	1650 gp	6	11	Arcane
+Scroll (Beast shape IV)	1650 gp	6	11	Arcane
+Scroll (Bull's strength, mass)	1650 gp	6	11	Arcane
+Scroll (Cat's grace, mass)	1650 gp	6	11	Arcane
+Scroll (Chain lightning)	1650 gp	6	11	Arcane
+Scroll (Disintegrate)	1650 gp	6	11	Arcane
+Scroll (Dispel magic, greater)	1650 gp	6	11	Arcane
+Scroll (Eagle's splendor, mass)	1650 gp	6	11	Arcane
+Scroll (Eyebite)	1650 gp	6	11	Arcane
+Scroll (Flesh to stone)	1650 gp	6	11	Arcane
+Scroll (Form of the dragon I)	1650 gp	6	11	Arcane
+Scroll (Fox's cunning, mass)	1650 gp	6	11	Arcane
+Scroll (Globe of invulnerability)	1650 gp	6	11	Arcane
+Scroll (Heroism, greater)	1650 gp	6	11	Arcane
+Scroll (Mislead)	1650 gp	6	11	Arcane
+Scroll (Owl's wisdom, mass)	1650 gp	6	11	Arcane
+Scroll (Planar binding)	1650 gp	6	11	Arcane
+Scroll (Shadow walk)	1650 gp	6	11	Arcane
+Scroll (Stone to flesh)	1650 gp	6	11	Arcane
+Scroll (Suggestion, mass)	1650 gp	6	11	Arcane
+Scroll (Summon monster VI)	1650 gp	6	11	Arcane
+Scroll (Transformation)	1650 gp	6	11	Arcane
+Scroll (Veil)	1650 gp	6	11	Arcane
+Scroll (Wall of iron)	1700 gp	6	11	Arcane
+Scroll (Create undead)	1750 gp	6	11	Arcane
+Scroll (Legend lore)	1900 gp	6	11	Arcane
+Scroll (True seeing)	1900 gp	6	11	Arcane
+Scroll (Circle of death)	2150 gp	6	11	Arcane
+Scroll (Symbol of fear)	2650 gp	6	11	Arcane
+Scroll (Analyze dweomer)	1650 gp	6	11	Arcane
+Scroll (Battlemind link)	1650 gp	6	11	Arcane
+Scroll (Cloak of dreams)	1650 gp	6	11	Arcane
+Scroll (Contagion, greater)	1650 gp	6	11	Arcane
+Scroll (Contagious flame)	1650 gp	6	11	Arcane
+Scroll (Contingency)	1650 gp	6	11	Arcane
+Scroll (Control water)	1650 gp	6	11	Arcane
+Scroll (Elemental body III)	1650 gp	6	11	Arcane
+Scroll (Fluid form)	1650 gp	6	11	Arcane
+Scroll (Forceful hand)	1650 gp	6	11	Arcane
+Scroll (Freezing sphere)	1650 gp	6	11	Arcane
+Scroll (Geas/quest)	1650 gp	6	11	Arcane
+Scroll (Getaway)	1650 gp	6	11	Arcane
+Scroll (Guards and wards)	1650 gp	6	11	Arcane
+Scroll (Mage's lucubration)	1650 gp	6	11	Arcane
+Scroll (Monstrous physique IV)	1650 gp	6	11	Arcane
+Scroll (Move earth)	1650 gp	6	11	Arcane
+Scroll (Permanent image)	1650 gp	6	11	Arcane
+Scroll (Plant shape II)	1650 gp	6	11	Arcane
+Scroll (Repulsion)	1650 gp	6	11	Arcane
+Scroll (Sirocco)	1650 gp	6	11	Arcane
+Scroll (Tar pool)	1650 gp	6	11	Arcane
+Scroll (Undead anatomy III)	1650 gp	6	11	Arcane
+Scroll (Programmed image)	1675 gp	6	11	Arcane
+Scroll (Undeath to death)	2150 gp	6	11	Arcane
+Scroll (Symbol of persuasion)	6650 gp	6	11	Arcane
+Scroll (Arcane sight, greater)	2275 gp	7	13	Arcane
+Scroll (Banishment)	2275 gp	7	13	Arcane
+Scroll (Delayed blast fireball)	2275 gp	7	13	Arcane
+Scroll (Ethereal jaunt)	2275 gp	7	13	Arcane
+Scroll (Finger of death)	2275 gp	7	13	Arcane
+Scroll (Form of the dragon II)	2275 gp	7	13	Arcane
+Scroll (Hold person, mass)	2275 gp	7	13	Arcane
+Scroll (Invisibility, mass)	2275 gp	7	13	Arcane
+Scroll (Mage's sword)	2275 gp	7	13	Arcane
+Scroll (Phase door)	2275 gp	7	13	Arcane
+Scroll (Plane shift)	2275 gp	7	13	Arcane
+Scroll (Polymorph, greater)	2275 gp	7	13	Arcane
+Scroll (Power word blind)	2275 gp	7	13	Arcane
+Scroll (Prismatic spray)	2275 gp	7	13	Arcane
+Scroll (Reverse gravity)	2275 gp	7	13	Arcane
+Scroll (Scrying, greater)	2275 gp	7	13	Arcane
+Scroll (Shadow conjuration, greater)	2275 gp	7	13	Arcane
+Scroll (Spell turning)	2275 gp	7	13	Arcane
+Scroll (Summon monster VII)	2275 gp	7	13	Arcane
+Scroll (Teleport, greater)	2275 gp	7	13	Arcane
+Scroll (Waves of exhaustion)	2275 gp	7	13	Arcane
+Scroll (Project image)	2280 gp	7	13	Arcane
+Scroll (Forcecage)	2775 gp	7	13	Arcane
+Scroll (Limited wish)	3775 gp	7	13	Arcane
+Scroll (Control undead)	2275 gp	7	13	Arcane
+Scroll (Control weather)	2275 gp	7	13	Arcane
+Scroll (Create demiplane, lesser)	2275 gp	7	13	Arcane
+Scroll (Deflection)	2275 gp	7	13	Arcane
+Scroll (Elemental body IV)	2275 gp	7	13	Arcane
+Scroll (Firebrand)	2275 gp	7	13	Arcane
+Scroll (Fly, mass)	2275 gp	7	13	Arcane
+Scroll (Giant form I)	2275 gp	7	13	Arcane
+Scroll (Grasping hand)	2275 gp	7	13	Arcane
+Scroll (Hostile juxtaposition, greater)	2275 gp	7	13	Arcane
+Scroll (Ice body)	2275 gp	7	13	Arcane
+Scroll (Insanity)	2275 gp	7	13	Arcane
+Scroll (Mage's magnificent mansion)	2275 gp	7	13	Arcane
+Scroll (Phantasmal revenge)	2275 gp	7	13	Arcane
+Scroll (Plague storm)	2275 gp	7	13	Arcane
+Scroll (Plant shape III)	2275 gp	7	13	Arcane
+Scroll (Resonating word)	2275 gp	7	13	Arcane
+Scroll (Sequester)	2275 gp	7	13	Arcane
+Scroll (Statue)	2275 gp	7	13	Arcane
+Scroll (Teleport object)	2275 gp	7	13	Arcane
+Scroll (Walk through space)	2275 gp	7	13	Arcane
+Scroll (Vision)	2525 gp	7	13	Arcane
+Scroll (Instant summons)	3275 gp	7	13	Arcane
+Scroll (Symbol of stunning)	7275 gp	7	13	Arcane
+Scroll (Symbol of weakness)	7275 gp	7	13	Arcane
+Scroll (Simulacrum)	8775 gp	7	13	Arcane
+Scroll (Charm monster, mass)	3000 gp	8	15	Arcane
+Scroll (Demand)	3000 gp	8	15	Arcane
+Scroll (Dimensional lock)	3000 gp	8	15	Arcane
+Scroll (Form of the dragon III)	3000 gp	8	15	Arcane
+Scroll (Horrid wilting)	3000 gp	8	15	Arcane
+Scroll (Incendiary cloud)	3000 gp	8	15	Arcane
+Scroll (Irresistible dance)	3000 gp	8	15	Arcane
+Scroll (Maze)	3000 gp	8	15	Arcane
+Scroll (Mind blank)	3000 gp	8	15	Arcane
+Scroll (Planar binding, greater)	3000 gp	8	15	Arcane
+Scroll (Polar ray)	3000 gp	8	15	Arcane
+Scroll (Polymorph any object)	3000 gp	8	15	Arcane
+Scroll (Power word stun)	3000 gp	8	15	Arcane
+Scroll (Prismatic wall)	3000 gp	8	15	Arcane
+Scroll (Scintillating pattern)	3000 gp	8	15	Arcane
+Scroll (Summon monster VIII)	3000 gp	8	15	Arcane
+Scroll (Telekinetic sphere)	3000 gp	8	15	Arcane
+Scroll (Protection from spells)	3500 gp	8	15	Arcane
+Scroll (Symbol of death)	8000 gp	8	15	Arcane
+Scroll (Temporal stasis)	8000 gp	8	15	Arcane
+Scroll (Trap the soul)	23000 gp	8	15	Arcane
+Scroll (Antipathy)	3000 gp	8	15	Arcane
+Scroll (Clenched fist)	3000 gp	8	15	Arcane
+Scroll (Clone)	3000 gp	8	15	Arcane
+Scroll (Create demiplane)	3000 gp	8	15	Arcane
+Scroll (Discern location)	3000 gp	8	15	Arcane
+Scroll (Euphoric tranquility)	3000 gp	8	15	Arcane
+Scroll (Frightful aspect)	3000 gp	8	15	Arcane
+Scroll (Giant form II)	3000 gp	8	15	Arcane
+Scroll (Iron body)	3000 gp	8	15	Arcane
+Scroll (Moment of prescience)	3000 gp	8	15	Arcane
+Scroll (Orb of the void)	3000 gp	8	15	Arcane
+Scroll (Pyrying eyes, greater)	3000 gp	8	15	Arcane
+Scroll (Screen)	3000 gp	8	15	Arcane
+Scroll (Shadow evocation, greater)	3000 gp	8	15	Arcane
+Scroll (Shout, greater)	3000 gp	8	15	Arcane
+Scroll (Stormbolts)	3000 gp	8	15	Arcane
+Scroll (Sunburst)	3000 gp	8	15	Arcane
+Scroll (Undead anatomy IV)	3000 gp	8	15	Arcane
+Scroll (Wall of lava)	3000 gp	8	15	Arcane
+Scroll (Create greater undead)	3150 gp	8	15	Arcane
+Scroll (Sympathy)	4500 gp	8	15	Arcane
+Scroll (Symbol of insanity)	8000 gp	8	15	Arcane
+Scroll (Binding (chaining))	13000 gp	8	15	Arcane
+Scroll (Dominate monster)	3825 gp	9	17	Arcane
+Scroll (Energy drain)	3825 gp	9	17	Arcane
+Scroll (Freedom)	3825 gp	9	17	Arcane
+Scroll (Gate)	3825 gp	9	17	Arcane
+Scroll (Hold monster, mass)	3825 gp	9	17	Arcane
+Scroll (Imprisonment)	3825 gp	9	17	Arcane
+Scroll (Mage's disjunction)	3825 gp	9	17	Arcane
+Scroll (Meteor swarm)	3825 gp	9	17	Arcane
+Scroll (Power word kill)	3825 gp	9	17	Arcane
+Scroll (Prismatic sphere)	3825 gp	9	17	Arcane
+Scroll (Shapechange)	3825 gp	9	17	Arcane
+Scroll (Summon monster IX)	3825 gp	9	17	Arcane
+Scroll (Time stop)	3825 gp	9	17	Arcane
+Scroll (Weird)	3825 gp	9	17	Arcane
+Scroll (Astral projection)	4825 gp	9	17	Arcane
+Scroll (Teleportation circle)	4825 gp	9	17	Arcane
+Scroll (Wish)	28825 gp	9	17	Arcane
+Scroll (Create demiplane, greater)	3825 gp	9	17	Arcane
+Scroll (Crushing hand)	3825 gp	9	17	Arcane
+Scroll (Etherealness)	3825 gp	9	17	Arcane
+Scroll (Fiery body)	3825 gp	9	17	Arcane
+Scroll (Foresight)	3825 gp	9	17	Arcane
+Scroll (Heroic invocation)	3825 gp	9	17	Arcane
+Scroll (Icy prison, mass)	3825 gp	9	17	Arcane
+Scroll (Ride the lightning)	3825 gp	9	17	Arcane
+Scroll (Shades)	3825 gp	9	17	Arcane
+Scroll (Soul bind)	3825 gp	9	17	Arcane
+Scroll (Tsunami)	3825 gp	9	17	Arcane
+Scroll (Wail of the banshee)	3825 gp	9	17	Arcane
+Scroll (Winds of vengeance)	3825 gp	9	17	Arcane
+Scroll (Refuge)	4325 gp	9	17	Arcane
+Scroll (Bleed)	12 gp 5 sp	0	1	Divine
+Scroll (Create water)	12 gp 5 sp	0	1	Divine
+Scroll (Detect magic)	12 gp 5 sp	0	1	Divine
+Scroll (Know direction)	12 gp 5 sp	0	1	Divine
+Scroll (Light)	12 gp 5 sp	0	1	Divine
+Scroll (Mending)	12 gp 5 sp	0	1	Divine
+Scroll (Purify food and drink)	12 gp 5 sp	0	1	Divine
+Scroll (Read magic)	12 gp 5 sp	0	1	Divine
+Scroll (Stabilize)	12 gp 5 sp	0	1	Divine
+Scroll (Detect poison)	12 gp 5 sp	0	1	Divine
+Scroll (Flare)	12 gp 5 sp	0	1	Divine
+Scroll (Guidance)	12 gp 5 sp	0	1	Divine
+Scroll (Resistance)	12 gp 5 sp	0	1	Divine
+Scroll (Spark)	12 gp 5 sp	0	1	Divine
+Scroll (Virtue)	12 gp 5 sp	0	1	Divine
+Scroll (Bane)	25 gp	1	1	Divine
+Scroll (Bless)	25 gp	1	1	Divine
+Scroll (Cause fear)	25 gp	1	1	Divine
+Scroll (Command)	25 gp	1	1	Divine
+Scroll (Comprehend languages)	25 gp	1	1	Divine
+Scroll (Cure light wounds)	25 gp	1	1	Divine
+Scroll (Detect chaos)	25 gp	1	1	Divine
+Scroll (Detect evil)	25 gp	1	1	Divine
+Scroll (Detect good)	25 gp	1	1	Divine
+Scroll (Detect law)	25 gp	1	1	Divine
+Scroll (Detect undead)	25 gp	1	1	Divine
+Scroll (Divine favor)	25 gp	1	1	Divine
+Scroll (Doom)	25 gp	1	1	Divine
+Scroll (Entangle)	25 gp	1	1	Divine
+Scroll (Inflict light wounds)	25 gp	1	1	Divine
+Scroll (Magic fang)	25 gp	1	1	Divine
+Scroll (Obscuring mist)	25 gp	1	1	Divine
+Scroll (Produce flame)	25 gp	1	1	Divine
+Scroll (Protection from chaos)	25 gp	1	1	Divine
+Scroll (Protection from evil)	25 gp	1	1	Divine
+Scroll (Protection from good)	25 gp	1	1	Divine
+Scroll (Protection from law)	25 gp	1	1	Divine
+Scroll (Remove fear)	25 gp	1	1	Divine
+Scroll (Sanctuary)	25 gp	1	1	Divine
+Scroll (Shield of faith)	25 gp	1	1	Divine
+Scroll (Summon monster I)	25 gp	1	1	Divine
+Scroll (Summon nature's ally I)	25 gp	1	1	Divine
+Scroll (Ant haul)	25 gp	1	1	Divine
+Scroll (Aspect of the falcon)	25 gp	1	1	Divine
+Scroll (Calm animals)	25 gp	1	1	Divine
+Scroll (Charm animal)	25 gp	1	1	Divine
+Scroll (Compel hostility)	25 gp	1	1	Divine
+Scroll (Deathwatch)	25 gp	1	1	Divine
+Scroll (Detect animals or plants)	25 gp	1	1	Divine
+Scroll (Detect snares and pits)	25 gp	1	1	Divine
+Scroll (Diagnose disease)	25 gp	1	1	Divine
+Scroll (Endure elements)	25 gp	1	1	Divine
+Scroll (Entropic shield)	25 gp	1	1	Divine
+Scroll (Faerie fire)	25 gp	1	1	Divine
+Scroll (Feather step)	25 gp	1	1	Divine
+Scroll (Forbid action)	25 gp	1	1	Divine
+Scroll (Frostbite)	25 gp	1	1	Divine
+Scroll (Goodberry)	25 gp	1	1	Divine
+Scroll (Hide from animals)	25 gp	1	1	Divine
+Scroll (Hide from undead)	25 gp	1	1	Divine
+Scroll (Hydraulic push)	25 gp	1	1	Divine
+Scroll (Jump)	25 gp	1	1	Divine
+Scroll (Keen senses)	25 gp	1	1	Divine
+Scroll (Liberating command)	25 gp	1	1	Divine
+Scroll (Longstrider)	25 gp	1	1	Divine
+Scroll (Magic stone)	25 gp	1	1	Divine
+Scroll (Pass without trace)	25 gp	1	1	Divine
+Scroll (Remove sickness)	25 gp	1	1	Divine
+Scroll (Sanctify corpse)	25 gp	1	1	Divine
+Scroll (Shillelagh)	25 gp	1	1	Divine
+Scroll (Speak with animals)	25 gp	1	1	Divine
+Scroll (Stone fist)	25 gp	1	1	Divine
+Scroll (Stone shield)	25 gp	1	1	Divine
+Scroll (Sun metal)	25 gp	1	1	Divine
+Scroll (Touch of the sea)	25 gp	1	1	Divine
+Scroll (Bless water)	50 gp	1	1	Divine
+Scroll (Curse water)	50 gp	1	1	Divine
+Scroll (Aid)	150 gp	2	3	Divine
+Scroll (Align weapon)	150 gp	2	3	Divine
+Scroll (Animal messenger)	150 gp	2	3	Divine
+Scroll (Barkskin)	150 gp	2	3	Divine
+Scroll (Bear's endurance)	150 gp	2	3	Divine
+Scroll (Bull's strength)	150 gp	2	3	Divine
+Scroll (Cat's grace)	150 gp	2	3	Divine
+Scroll (Chill metal)	150 gp	2	3	Divine
+Scroll (Cure moderate wounds)	150 gp	2	3	Divine
+Scroll (Darkness)	150 gp	2	3	Divine
+Scroll (Delay poison)	150 gp	2	3	Divine
+Scroll (Eagle's splendor)	150 gp	2	3	Divine
+Scroll (Find traps)	150 gp	2	3	Divine
+Scroll (Flame blade)	150 gp	2	3	Divine
+Scroll (Fog cloud)	150 gp	2	3	Divine
+Scroll (Heat metal)	150 gp	2	3	Divine
+Scroll (Hold animal)	150 gp	2	3	Divine
+Scroll (Hold person)	150 gp	2	3	Divine
+Scroll (Inflict moderate wounds)	150 gp	2	3	Divine
+Scroll (Owl's wisdom)	150 gp	2	3	Divine
+Scroll (Remove paralysis)	150 gp	2	3	Divine
+Scroll (Resist energy)	150 gp	2	3	Divine
+Scroll (Restoration, lesser)	150 gp	2	3	Divine
+Scroll (Shield other)	150 gp	2	3	Divine
+Scroll (Silence)	150 gp	2	3	Divine
+Scroll (Sound burst)	150 gp	2	3	Divine
+Scroll (Spiritual weapon)	150 gp	2	3	Divine
+Scroll (Summon monster II)	150 gp	2	3	Divine
+Scroll (Summon nature's ally II)	150 gp	2	3	Divine
+Scroll (Summon swarm)	150 gp	2	3	Divine
+Scroll (Zone of truth)	150 gp	2	3	Divine
+Scroll (Augury)	175 gp	2	3	Divine
+Scroll (Animal aspect)	150 gp	2	3	Divine
+Scroll (Animal trance)	150 gp	2	3	Divine
+Scroll (Animate dead, lesser)	150 gp	2	3	Divine
+Scroll (Arrow of law)	150 gp	2	3	Divine
+Scroll (Aspect of the bear)	150 gp	2	3	Divine
+Scroll (Blessing of courage and life)	150 gp	2	3	Divine
+Scroll (Calm emotions)	150 gp	2	3	Divine
+Scroll (Death knell)	150 gp	2	3	Divine
+Scroll (Dread bolt)	150 gp	2	3	Divine
+Scroll (Effortless armor)	150 gp	2	3	Divine
+Scroll (Enthrall)	150 gp	2	3	Divine
+Scroll (Flaming sphere)	150 gp	2	3	Divine
+Scroll (Gentle repose)	150 gp	2	3	Divine
+Scroll (Grace)	150 gp	2	3	Divine
+Scroll (Groundswell)	150 gp	2	3	Divine
+Scroll (Gust of wind)	150 gp	2	3	Divine
+Scroll (Instant armor)	150 gp	2	3	Divine
+Scroll (Instrument of agony)	150 gp	2	3	Divine
+Scroll (Make whole)	150 gp	2	3	Divine
+Scroll (Reduce animal)	150 gp	2	3	Divine
+Scroll (Scent trail)	150 gp	2	3	Divine
+Scroll (Shard of chaos)	150 gp	2	3	Divine
+Scroll (Share language)	150 gp	2	3	Divine
+Scroll (Shatter)	150 gp	2	3	Divine
+Scroll (Soften earth and stone)	150 gp	2	3	Divine
+Scroll (Spear of purity)	150 gp	2	3	Divine
+Scroll (Spider climb)	150 gp	2	3	Divine
+Scroll (Status)	150 gp	2	3	Divine
+Scroll (Tree shape)	150 gp	2	3	Divine
+Scroll (Undetectable alignment)	150 gp	2	3	Divine
+Scroll (Warp wood)	150 gp	2	3	Divine
+Scroll (Weapon of awe)	150 gp	2	3	Divine
+Scroll (Wood shape)	150 gp	2	3	Divine
+Scroll (Consecrate)	175 gp	2	3	Divine
+Scroll (Desecrate)	175 gp	2	3	Divine
+Scroll (Fire trap)	175 gp	2	3	Divine
+Scroll (Masterwork transformation)	450 gp	2	3	Divine
+Scroll (Bestow curse)	375 gp	3	5	Divine
+Scroll (Call lightning)	375 gp	3	5	Divine
+Scroll (Cure serious wounds)	375 gp	3	5	Divine
+Scroll (Daylight)	375 gp	3	5	Divine
+Scroll (Deeper darkness)	375 gp	3	5	Divine
+Scroll (Dispel magic)	375 gp	3	5	Divine
+Scroll (Inflict serious wounds)	375 gp	3	5	Divine
+Scroll (Invisibility purge)	375 gp	3	5	Divine
+Scroll (Locate object)	375 gp	3	5	Divine
+Scroll (Magic circle against chaos)	375 gp	3	5	Divine
+Scroll (Magic circle against evil)	375 gp	3	5	Divine
+Scroll (Magic circle against good)	375 gp	3	5	Divine
+Scroll (Magic circle against law)	375 gp	3	5	Divine
+Scroll (Magic fang, greater)	375 gp	3	5	Divine
+Scroll (Magic vestment)	375 gp	3	5	Divine
+Scroll (Poison)	375 gp	3	5	Divine
+Scroll (Prayer)	375 gp	3	5	Divine
+Scroll (Protection from energy)	375 gp	3	5	Divine
+Scroll (Remove blindness/deafness)	375 gp	3	5	Divine
+Scroll (Remove curse)	375 gp	3	5	Divine
+Scroll (Remove disease)	375 gp	3	5	Divine
+Scroll (Searing light)	375 gp	3	5	Divine
+Scroll (Sleet storm)	375 gp	3	5	Divine
+Scroll (Speak with dead)	375 gp	3	5	Divine
+Scroll (Stone shape)	375 gp	3	5	Divine
+Scroll (Summon monster III)	375 gp	3	5	Divine
+Scroll (Summon nature's ally III)	375 gp	3	5	Divine
+Scroll (Water breathing)	375 gp	3	5	Divine
+Scroll (Water walk)	375 gp	3	5	Divine
+Scroll (Animate dead)	625 gp	3	5	Divine
+Scroll (Aqueous orb)	375 gp	3	5	Divine
+Scroll (Archon's aura)	375 gp	3	5	Divine
+Scroll (Bestow insight)	375 gp	3	5	Divine
+Scroll (Blindness/deafness)	375 gp	3	5	Divine
+Scroll (Burst of nettles)	375 gp	3	5	Divine
+Scroll (Chain of perdition)	375 gp	3	5	Divine
+Scroll (Contagion)	375 gp	3	5	Divine
+Scroll (Create food and water)	375 gp	3	5	Divine
+Scroll (Daybreak arrow)	375 gp	3	5	Divine
+Scroll (Diminish plants)	375 gp	3	5	Divine
+Scroll (Discovery torch)	375 gp	3	5	Divine
+Scroll (Dominate animal)	375 gp	3	5	Divine
+Scroll (Guiding star)	375 gp	3	5	Divine
+Scroll (Helping hand)	375 gp	3	5	Divine
+Scroll (Meld into stone)	375 gp	3	5	Divine
+Scroll (Obscure object)	375 gp	3	5	Divine
+Scroll (Plant growth)	375 gp	3	5	Divine
+Scroll (Quench)	375 gp	3	5	Divine
+Scroll (Shifting sands)	375 gp	3	5	Divine
+Scroll (Snare)	375 gp	3	5	Divine
+Scroll (Speak with plants)	375 gp	3	5	Divine
+Scroll (Spike growth)	375 gp	3	5	Divine
+Scroll (Vision of hell)	375 gp	3	5	Divine
+Scroll (Wind wall)	375 gp	3	5	Divine
+Scroll (Wrathful mantle)	375 gp	3	5	Divine
+Scroll (Continual flame)	425 gp	3	5	Divine
+Scroll (Nap stack)	475 gp	3	5	Divine
+Scroll (Glyph of warding)	575 gp	3	5	Divine
+Scroll (Symbol of healing)	875 gp	3	5	Divine
+Scroll (Air walk)	700 gp	4	7	Divine
+Scroll (Chaos hammer)	700 gp	4	7	Divine
+Scroll (Cure critical wounds)	700 gp	4	7	Divine
+Scroll (Death ward)	700 gp	4	7	Divine
+Scroll (Dimensional anchor)	700 gp	4	7	Divine
+Scroll (Discern lies)	700 gp	4	7	Divine
+Scroll (Dismissal)	700 gp	4	7	Divine
+Scroll (Divine power)	700 gp	4	7	Divine
+Scroll (Flame strike)	700 gp	4	7	Divine
+Scroll (Freedom of movement)	700 gp	4	7	Divine
+Scroll (Holy smite)	700 gp	4	7	Divine
+Scroll (Inflict critical wounds)	700 gp	4	7	Divine
+Scroll (Magic weapon, greater)	700 gp	4	7	Divine
+Scroll (Neutralize poison)	700 gp	4	7	Divine
+Scroll (Order's wrath)	700 gp	4	7	Divine
+Scroll (Poison)	700 gp	4	7	Divine
+Scroll (Spell immunity)	700 gp	4	7	Divine
+Scroll (Spike stones)	700 gp	4	7	Divine
+Scroll (Summon monster IV)	700 gp	4	7	Divine
+Scroll (Summon nature's ally IV)	700 gp	4	7	Divine
+Scroll (Tongues)	700 gp	4	7	Divine
+Scroll (Unholy blight)	700 gp	4	7	Divine
+Scroll (Divination)	725 gp	4	7	Divine
+Scroll (Planar ally, lesser)	1200 gp	4	7	Divine
+Scroll (Restoration)	1700 gp	4	7	Divine
+Scroll (Absorb toxicity)	700 gp	4	7	Divine
+Scroll (Antiplant shell)	700 gp	4	7	Divine
+Scroll (Aspect of the stag)	700 gp	4	7	Divine
+Scroll (Aura of doom)	700 gp	4	7	Divine
+Scroll (Ball lightning)	700 gp	4	7	Divine
+Scroll (Blessing of fervor)	700 gp	4	7	Divine
+Scroll (Blight)	700 gp	4	7	Divine
+Scroll (Command plants)	700 gp	4	7	Divine
+Scroll (Control water)	700 gp	4	7	Divine
+Scroll (Debilitating portent)	700 gp	4	7	Divine
+Scroll (Giant vermin)	700 gp	4	7	Divine
+Scroll (Ice storm)	700 gp	4	7	Divine
+Scroll (Imbue with spell ability)	700 gp	4	7	Divine
+Scroll (Plague carrier)	700 gp	4	7	Divine
+Scroll (Planar adaptation)	700 gp	4	7	Divine
+Scroll (Protection from energy, communal)	700 gp	4	7	Divine
+Scroll (Reincarnate)	700 gp	4	7	Divine
+Scroll (Repel vermin)	700 gp	4	7	Divine
+Scroll (Rusting grasp)	700 gp	4	7	Divine
+Scroll (Scrying)	700 gp	4	7	Divine
+Scroll (Sending)	700 gp	4	7	Divine
+Scroll (Spiritual ally)	700 gp	4	7	Divine
+Scroll (Thorn body)	700 gp	4	7	Divine
+Scroll (Volcanic storm)	700 gp	4	7	Divine
+Scroll (Symbol of slowing)	1700 gp	4	7	Divine
+Scroll (Animal growth)	1125 gp	5	9	Divine
+Scroll (Atonement)	1125 gp	5	9	Divine
+Scroll (Baleful polymorph)	1125 gp	5	9	Divine
+Scroll (Break enchantment)	1125 gp	5	9	Divine
+Scroll (Breath of life)	1125 gp	5	9	Divine
+Scroll (Call lightning storm)	1125 gp	5	9	Divine
+Scroll (Command, greater)	1125 gp	5	9	Divine
+Scroll (Cure light wounds, mass)	1125 gp	5	9	Divine
+Scroll (Death ward)	1125 gp	5	9	Divine
+Scroll (Disrupting weapon)	1125 gp	5	9	Divine
+Scroll (Inflict light wounds, mass)	1125 gp	5	9	Divine
+Scroll (Plane shift)	1125 gp	5	9	Divine
+Scroll (Righteous might)	1125 gp	5	9	Divine
+Scroll (Scrying)	1125 gp	5	9	Divine
+Scroll (Slay living)	1125 gp	5	9	Divine
+Scroll (Spell resistance)	1125 gp	5	9	Divine
+Scroll (Summon monster V)	1125 gp	5	9	Divine
+Scroll (Summon nature's ally V)	1125 gp	5	9	Divine
+Scroll (Tree stride)	1125 gp	5	9	Divine
+Scroll (Wall of fire)	1125 gp	5	9	Divine
+Scroll (Wall of stone)	1125 gp	5	9	Divine
+Scroll (Wall of thorns)	1125 gp	5	9	Divine
+Scroll (True seeing)	1375 gp	5	9	Divine
+Scroll (Commune)	1625 gp	5	9	Divine
+Scroll (Awaken)	3125 gp	5	9	Divine
+Scroll (Raise dead)	6125 gp	5	9	Divine
+Scroll (Air walk, communal)	1125 gp	5	9	Divine
+Scroll (Aspect of the wolf)	1125 gp	5	9	Divine
+Scroll (Blessing of the salamander)	1125 gp	5	9	Divine
+Scroll (Cleanse)	1125 gp	5	9	Divine
+Scroll (Commune with nature)	1125 gp	5	9	Divine
+Scroll (Contagion, greater)	1125 gp	5	9	Divine
+Scroll (Control winds)	1125 gp	5	9	Divine
+Scroll (Dispel chaos)	1125 gp	5	9	Divine
+Scroll (Dispel evil)	1125 gp	5	9	Divine
+Scroll (Dispel good)	1125 gp	5	9	Divine
+Scroll (Dispel law)	1125 gp	5	9	Divine
+Scroll (Fickle winds)	1125 gp	5	9	Divine
+Scroll (Forbid action, greater)	1125 gp	5	9	Divine
+Scroll (Insect plague)	1125 gp	5	9	Divine
+Scroll (Life bubble)	1125 gp	5	9	Divine
+Scroll (Mark of justice)	1125 gp	5	9	Divine
+Scroll (Pillar of life)	1125 gp	5	9	Divine
+Scroll (Serenity)	1125 gp	5	9	Divine
+Scroll (Snake staff)	1125 gp	5	9	Divine
+Scroll (Spell immunity, communal)	1125 gp	5	9	Divine
+Scroll (Transmute mud to rock)	1125 gp	5	9	Divine
+Scroll (Transmute rock to mud)	1125 gp	5	9	Divine
+Scroll (Wind blades)	1125 gp	5	9	Divine
+Scroll (Stoneskin)	1375 gp	5	9	Divine
+Scroll (Hallow)	2125 gp	5	9	Divine
+Scroll (Symbol of pain)	2125 gp	5	9	Divine
+Scroll (Symbol of sleep)	2125 gp	5	9	Divine
+Scroll (Unhallow)	2125 gp	5	9	Divine
+Scroll (Hallow with 4th level)	6125 gp	5	9	Divine
+Scroll (Unhallow with 4th level)	6125 gp	5	9	Divine
+Scroll (Bear's endurance, mass)	1650 gp	6	11	Divine
+Scroll (Blade barrier)	1650 gp	6	11	Divine
+Scroll (Bull's strength, mass)	1650 gp	6	11	Divine
+Scroll (Cat's grace, mass)	1650 gp	6	11	Divine
+Scroll (Cure moderate wounds, mass)	1650 gp	6	11	Divine
+Scroll (Dispel magic, greater)	1650 gp	6	11	Divine
+Scroll (Eagle's splendor, mass)	1650 gp	6	11	Divine
+Scroll (Find the path)	1650 gp	6	11	Divine
+Scroll (Fire seeds)	1650 gp	6	11	Divine
+Scroll (Harm)	1650 gp	6	11	Divine
+Scroll (Heal)	1650 gp	6	11	Divine
+Scroll (Heroes' feast)	1650 gp	6	11	Divine
+Scroll (Inflict moderate wounds, mass)	1650 gp	6	11	Divine
+Scroll (Liveoak)	1650 gp	6	11	Divine
+Scroll (Owl's wisdom, mass)	1650 gp	6	11	Divine
+Scroll (Summon monster VI)	1650 gp	6	11	Divine
+Scroll (Summon nature's ally VI)	1650 gp	6	11	Divine
+Scroll (Word of recall)	1650 gp	6	11	Divine
+Scroll (Planar ally)	2900 gp	6	11	Divine
+Scroll (Animate objects)	1650 gp	6	11	Divine
+Scroll (Antilife shell)	1650 gp	6	11	Divine
+Scroll (Banishment)	1650 gp	6	11	Divine
+Scroll (Cold ice strike)	1650 gp	6	11	Divine
+Scroll (Dust form)	1650 gp	6	11	Divine
+Scroll (Geas/quest)	1650 gp	6	11	Divine
+Scroll (Ironwood)	1650 gp	6	11	Divine
+Scroll (Joyful rapture)	1650 gp	6	11	Divine
+Scroll (Move earth)	1650 gp	6	11	Divine
+Scroll (Plague storm)	1650 gp	6	11	Divine
+Scroll (Planar adaptation, mass)	1650 gp	6	11	Divine
+Scroll (Repel wood)	1650 gp	6	11	Divine
+Scroll (Sirocco)	1650 gp	6	11	Divine
+Scroll (Spellstaff)	1650 gp	6	11	Divine
+Scroll (Stone tell)	1650 gp	6	11	Divine
+Scroll (Swarm skin)	1650 gp	6	11	Divine
+Scroll (Tar pool)	1650 gp	6	11	Divine
+Scroll (Transport via plants)	1650 gp	6	11	Divine
+Scroll (Wind walk)	1650 gp	6	11	Divine
+Scroll (Create undead)	1750 gp	6	11	Divine
+Scroll (Glyph of warding, greater)	2050 gp	6	11	Divine
+Scroll (Undeath to death)	2150 gp	6	11	Divine
+Scroll (Symbol of fear)	2650 gp	6	11	Divine
+Scroll (Forbiddance)	4650 gp	6	11	Divine
+Scroll (Symbol of persuasion)	6650 gp	6	11	Divine
+Scroll (Blasphemy)	2275 gp	7	13	Divine
+Scroll (Control weather)	2275 gp	7	13	Divine
+Scroll (Creeping doom)	2275 gp	7	13	Divine
+Scroll (Cure serious wounds, mass)	2275 gp	7	13	Divine
+Scroll (Dictum)	2275 gp	7	13	Divine
+Scroll (Ethereal jaunt)	2275 gp	7	13	Divine
+Scroll (Fire storm)	2275 gp	7	13	Divine
+Scroll (Holy word)	2275 gp	7	13	Divine
+Scroll (Inflict serious wounds, mass)	2275 gp	7	13	Divine
+Scroll (Regenerate)	2275 gp	7	13	Divine
+Scroll (Repulsion)	2275 gp	7	13	Divine
+Scroll (Scrying, greater)	2275 gp	7	13	Divine
+Scroll (Summon monster VII)	2275 gp	7	13	Divine
+Scroll (Summon nature's ally VII)	2275 gp	7	13	Divine
+Scroll (Sunbeam)	2275 gp	7	13	Divine
+Scroll (Word of chaos)	2275 gp	7	13	Divine
+Scroll (Destruction)	2775 gp	7	13	Divine
+Scroll (Restoration, greater)	7275 gp	7	13	Divine
+Scroll (Resurrection)	12275 gp	7	13	Divine
+Scroll (Animate plants)	2275 gp	7	13	Divine
+Scroll (Changestaff)	2275 gp	7	13	Divine
+Scroll (Circle of clarity)	2275 gp	7	13	Divine
+Scroll (Create demiplane, lesser)	2275 gp	7	13	Divine
+Scroll (Jolting portent)	2275 gp	7	13	Divine
+Scroll (Rampart)	2275 gp	7	13	Divine
+Scroll (Scouring winds)	2275 gp	7	13	Divine
+Scroll (Siege of trees)	2275 gp	7	13	Divine
+Scroll (Transmute metal to wood)	2275 gp	7	13	Divine
+Scroll (Vortex)	2275 gp	7	13	Divine
+Scroll (Waves of ecstasy)	2275 gp	7	13	Divine
+Scroll (Refuge)	3775 gp	7	13	Divine
+Scroll (Symbol of stunning)	7275 gp	7	13	Divine
+Scroll (Symbol of weakness)	7275 gp	7	13	Divine
+Scroll (Antimagic field)	3000 gp	8	15	Divine
+Scroll (Cloak of chaos)	3000 gp	8	15	Divine
+Scroll (Cure critical wounds, mass)	3000 gp	8	15	Divine
+Scroll (Earthquake)	3000 gp	8	15	Divine
+Scroll (Finger of death)	3000 gp	8	15	Divine
+Scroll (Holy aura)	3000 gp	8	15	Divine
+Scroll (Inflict critical wounds, mass)	3000 gp	8	15	Divine
+Scroll (Reverse gravity)	3000 gp	8	15	Divine
+Scroll (Shield of law)	3000 gp	8	15	Divine
+Scroll (Spell immunity, greater)	3000 gp	8	15	Divine
+Scroll (Summon monster VIII)	3000 gp	8	15	Divine
+Scroll (Summon nature's ally VIII)	3000 gp	8	15	Divine
+Scroll (Sunburst)	3000 gp	8	15	Divine
+Scroll (Unholy aura)	3000 gp	8	15	Divine
+Scroll (Planar ally, greater)	5500 gp	8	15	Divine
+Scroll (Animal shapes)	3000 gp	8	15	Divine
+Scroll (Blood mist)	3000 gp	8	15	Divine
+Scroll (Control plants)	3000 gp	8	15	Divine
+Scroll (Create demiplane)	3000 gp	8	15	Divine
+Scroll (Dimensional lock)	3000 gp	8	15	Divine
+Scroll (Discern location)	3000 gp	8	15	Divine
+Scroll (Euphoric tranquility)	3000 gp	8	15	Divine
+Scroll (Frightful aspect)	3000 gp	8	15	Divine
+Scroll (Orb of the void)	3000 gp	8	15	Divine
+Scroll (Repel metal or stone)	3000 gp	8	15	Divine
+Scroll (Seamantle)	3000 gp	8	15	Divine
+Scroll (Storm bolts)	3000 gp	8	15	Divine
+Scroll (Whirlwind)	3000 gp	8	15	Divine
+Scroll (Create greater undead)	3150 gp	8	15	Divine
+Scroll (Symbol of death)	8000 gp	8	15	Divine
+Scroll (Symbol of insanity)	8000 gp	8	15	Divine
+Scroll (Elemental swarm)	3825 gp	9	17	Divine
+Scroll (Energy drain)	3825 gp	9	17	Divine
+Scroll (Etherealness)	3825 gp	9	17	Divine
+Scroll (Gate)	3825 gp	9	17	Divine
+Scroll (Heal, mass)	3825 gp	9	17	Divine
+Scroll (Implosion)	3825 gp	9	17	Divine
+Scroll (Miracle)	3825 gp	9	17	Divine
+Scroll (Shambler)	3825 gp	9	17	Divine
+Scroll (Shapechange)	3825 gp	9	17	Divine
+Scroll (Storm of vengeance)	3825 gp	9	17	Divine
+Scroll (Summon monster IX)	3825 gp	9	17	Divine
+Scroll (Summon nature's ally IX)	3825 gp	9	17	Divine
+Scroll (True resurrection)	28825 gp	9	17	Divine
+Scroll (Antipathy)	3825 gp	9	17	Divine
+Scroll (Clashing rocks)	3825 gp	9	17	Divine
+Scroll (Create demiplane, greater)	3825 gp	9	17	Divine
+Scroll (Foresight)	3825 gp	9	17	Divine
+Scroll (Overwhelming presence)	3825 gp	9	17	Divine
+Scroll (Polar midnight)	3825 gp	9	17	Divine
+Scroll (Soul bind)	3825 gp	9	17	Divine
+Scroll (Spell immunity, greater)	3825 gp	9	17	Divine
+Scroll (Summon froghemoth)	3825 gp	9	17	Divine
+Scroll (Winds of vengeance)	3825 gp	9	17	Divine
+Scroll (World wave)	3825 gp	9	17	Divine
+Scroll (Astral projection)	4825 gp	9	17	Divine
+Scroll (Sympathy)	5325 gp	9	17	Divine

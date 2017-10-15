@@ -1,0 +1,117 @@
+Name	Cost	lvl	cl
+Potion (Arcane mark)	25 gp	0	1
+Potion (Guidance)	25 gp	0	1
+Potion (Light)	25 gp	0	1
+Potion (Purify food and drink)	25 gp	0	1
+Potion (Resistance)	25 gp	0	1
+Potion (Stabilize)	25 gp	0	1
+Potion (Virtue)	25 gp	0	1
+Potion (Bless weapon)	50 gp	1	1
+Potion (Cure light wounds)	50 gp	1	1
+Potion (Endure elements)	50 gp	1	1
+Potion (Enlarge person)	50 gp	1	1
+Potion (Jump)	50 gp	1	1
+Potion (Mage armor)	50 gp	1	1
+Potion (Magic fang)	50 gp	1	1
+Potion (Magic weapon)	50 gp	1	1
+Potion (Pass without trace)	50 gp	1	1
+Potion (Protection from chaos)	50 gp	1	1
+Potion (Protection from evil)	50 gp	1	1
+Potion (Protection from good)	50 gp	1	1
+Potion (Protection from law)	50 gp	1	1
+Potion (Reduce person)	50 gp	1	1
+Potion (Remove fear)	50 gp	1	1
+Potion (Sanctuary)	50 gp	1	1
+Potion (Shield of faith)	50 gp	1	1
+Potion (Animate rope)	50 gp	1	1
+Potion (Ant haul)	50 gp	1	1
+Potion (Cloak of the shade)	50 gp	1	1
+Potion (Erase)	50 gp	1	1
+Potion (Feather step)	50 gp	1	1
+Potion (Goodberry)	50 gp	1	1
+Potion (Grease)	50 gp	1	1
+Potion (Hide from animals)	50 gp	1	1
+Potion (Hide from undead)	50 gp	1	1
+Potion (Hold portal)	50 gp	1	1
+Potion (Invigorate)	50 gp	1	1
+Potion (Keen senses)	50 gp	1	1
+Potion (Magic stone)	50 gp	1	1
+Potion (Remove sickness)	50 gp	1	1
+Potion (Sanctify corpse)	50 gp	1	1
+Potion (Shillelagh)	50 gp	1	1
+Potion (Touch of the sea)	50 gp	1	1
+Potion (Vanish)	50 gp	1	1
+Potion (Aid)	300 gp	2	3
+Potion (Align weapon)	300 gp	2	3
+Potion (Barkskin)	300 gp	2	3
+Potion (Bear's endurance)	300 gp	2	3
+Potion (Blur)	300 gp	2	3
+Potion (Bull's strength)	300 gp	2	3
+Potion (Cat's grace)	300 gp	2	3
+Potion (Cure moderate wounds)	300 gp	2	3
+Potion (Darkvision)	300 gp	2	3
+Potion (Delay poison)	300 gp	2	3
+Potion (Eagle's splendor)	300 gp	2	3
+Potion (Fox's cunning)	300 gp	2	3
+Potion (Invisibility)	300 gp	2	3
+Potion (Levitate)	300 gp	2	3
+Potion (Owl's wisdom)	300 gp	2	3
+Potion (Protection from arrows)	300 gp	2	3
+Potion (Remove paralysis)	300 gp	2	3
+Potion (Resist energy, acid)	300 gp	2	3
+Potion (Resist energy, cold)	300 gp	2	3
+Potion (Resist energy, electricity)	300 gp	2	3
+Potion (Resist energy, fire)	300 gp	2	3
+Potion (Resist energy, sonic)	300 gp	2	3
+Potion (Spider climb)	300 gp	2	3
+Potion (Undetectable alignment)	300 gp	2	3
+Potion (Ablative barrier)	300 gp	2	3
+Potion (Acute senses)	300 gp	2	3
+Potion (Arcane lock)	300 gp	2	3
+Potion (Bullet shield)	300 gp	2	3
+Potion (Certain grip)	300 gp	2	3
+Potion (Continual flame)	350 gp	2	3
+Potion (Corruption resistance)	300 gp	2	3
+Potion (Disguise other)	300 gp	2	3
+Potion (Gentle repose)	300 gp	2	3
+Potion (Make whole)	300 gp	2	3
+Potion (Obscure object)	300 gp	2	3
+Potion (Reduce animal)	300 gp	2	3
+Potion (Rope trick)	300 gp	2	3
+Potion (Slipstream)	300 gp	2	3
+Potion (Status)	300 gp	2	3
+Potion (Warp wood)	300 gp	2	3
+Potion (Wood shape)	300 gp	2	3
+Potion (Cure serious wounds)	750 gp	3	5
+Potion (Dispel magic)	750 gp	3	5
+Potion (Displacement)	750 gp	3	5
+Potion (Fly)	750 gp	3	5
+Potion (Gaseous form)	750 gp	3	5
+Potion (Good hope)	750 gp	3	5
+Potion (Haste)	750 gp	3	5
+Potion (Heroism)	750 gp	3	5
+Potion (Keen edge)	750 gp	3	5
+Potion (Magic fang, greater)	750 gp	3	5
+Potion (Magic vestment)	750 gp	3	5
+Potion (Neutralize poison)	750 gp	3	5
+Potion (Protection from energy, acid)	750 gp	3	5
+Potion (Protection from energy, cold)	750 gp	3	5
+Potion (Protection from energy, electricity)	750 gp	3	5
+Potion (Protection from energy, fire)	750 gp	3	5
+Potion (Protection from energy, sonic)	750 gp	3	5
+Potion (Rage)	750 gp	3	5
+Potion (Remove blindness/deafness)	750 gp	3	5
+Potion (Remove curse)	750 gp	3	5
+Potion (Remove disease)	750 gp	3	5
+Potion (Tongues)	750 gp	3	5
+Potion (Water breathing)	750 gp	3	5
+Potion (Water walk)	750 gp	3	5
+Potion (Burrow)	750 gp	3	5
+Potion (Countless eyes)	750 gp	3	5
+Potion (Daylight)	750 gp	3	5
+Potion (Draconic reservoir)	750 gp	3	5
+Potion (Flame arrow)	750 gp	3	5
+Potion (Shrink item)	750 gp	3	5
+Potion (Stone shape)	750 gp	3	5
+Potion (Fire trap)	775 gp	3	5
+Potion (Nondetection)	800 gp	3	5

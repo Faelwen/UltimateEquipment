@@ -1,0 +1,957 @@
+Scroll	Scroll	Scrolls	Scroll	Name	Cost	CL	w	d	r	a
+Scroll	Arcane Lv 0	Scroll	Arcane Lv 0	Scroll (acid splash)	12 gp 5 sp	1				
+Scroll	Arcane Lv 0	Scroll	Arcane Lv 0	Scroll (daze)	12 gp 5 sp	1				
+Scroll	Arcane Lv 0	Scroll	Arcane Lv 0	Scroll (detect magic)	12 gp 5 sp	1				
+Scroll	Arcane Lv 0	Scroll	Arcane Lv 0	Scroll (flare)	12 gp 5 sp	1				
+Scroll	Arcane Lv 0	Scroll	Arcane Lv 0	Scroll (light)	12 gp 5 sp	1				
+Scroll	Arcane Lv 0	Scroll	Arcane Lv 0	Scroll (mage hand)	12 gp 5 sp	1				
+Scroll	Arcane Lv 0	Scroll	Arcane Lv 0	Scroll (mending)	12 gp 5 sp	1				
+Scroll	Arcane Lv 0	Scroll	Arcane Lv 0	Scroll (prestidigitation)	12 gp 5 sp	1				
+Scroll	Arcane Lv 0	Scroll	Arcane Lv 0	Scroll (ray of frost)	12 gp 5 sp	1				
+Scroll	Arcane Lv 0	Scroll	Arcane Lv 0	Scroll (read magic)	12 gp 5 sp	1				
+Scroll	Arcane Lv 0	Scroll	Arcane Lv 0	Scroll (touch of fatigue)	12 gp 5 sp	1				
+Scroll	Arcane Lv 0	Scroll	Arcane Lv 0	Scroll (arcane mark)	12 gp 5 sp	1				
+Scroll	Arcane Lv 0	Scroll	Arcane Lv 0	Scroll (bleed)	12 gp 5 sp	1				
+Scroll	Arcane Lv 0	Scroll	Arcane Lv 0	Scroll (dancing lights)	12 gp 5 sp	1				
+Scroll	Arcane Lv 0	Scroll	Arcane Lv 0	Scroll (detect poison)	12 gp 5 sp	1				
+Scroll	Arcane Lv 0	Scroll	Arcane Lv 0	Scroll (disrupt undead)	12 gp 5 sp	1				
+Scroll	Arcane Lv 0	Scroll	Arcane Lv 0	Scroll (ghost sound)	12 gp 5 sp	1				
+Scroll	Arcane Lv 0	Scroll	Arcane Lv 0	Scroll (message)	12 gp 5 sp	1				
+Scroll	Arcane Lv 0	Scroll	Arcane Lv 0	Scroll (open/close)	12 gp 5 sp	1				
+Scroll	Arcane Lv 0	Scroll	Arcane Lv 0	Scroll (resistance)	12 gp 5 sp	1				
+Scroll	Arcane Lv 0	Scroll	Arcane Lv 0	Scroll (sift)	12 gp 5 sp	1				
+Scroll	Arcane Lv 0	Scroll	Arcane Lv 0	Scroll (spark)	12 gp 5 sp	1				
+Scroll	Arcane Lv 0	Scroll	Arcane Lv 0	Scroll (unwitting ally)	12 gp 5 sp	1				
+Scroll	Arcane Lv 1	Scroll	Arcane Lv 1	Scroll (burning hands)	25 gp	1				
+Scroll	Arcane Lv 1	Scroll	Arcane Lv 1	Scroll (cause fear)	25 gp	1				
+Scroll	Arcane Lv 1	Scroll	Arcane Lv 1	Scroll (charm person)	25 gp	1				
+Scroll	Arcane Lv 1	Scroll	Arcane Lv 1	Scroll (chill touch)	25 gp	1				
+Scroll	Arcane Lv 1	Scroll	Arcane Lv 1	Scroll (disguise self)	25 gp	1				
+Scroll	Arcane Lv 1	Scroll	Arcane Lv 1	Scroll (endure elements)	25 gp	1				
+Scroll	Arcane Lv 1	Scroll	Arcane Lv 1	Scroll (enlarge person)	25 gp	1				
+Scroll	Arcane Lv 1	Scroll	Arcane Lv 1	Scroll (expeditious retreat)	25 gp	1				
+Scroll	Arcane Lv 1	Scroll	Arcane Lv 1	Scroll (grease)	25 gp	1				
+Scroll	Arcane Lv 1	Scroll	Arcane Lv 1	Scroll (hypnotism)	25 gp	1				
+Scroll	Arcane Lv 1	Scroll	Arcane Lv 1	Scroll (identify)	25 gp	1				
+Scroll	Arcane Lv 1	Scroll	Arcane Lv 1	Scroll (mage armor)	25 gp	1				
+Scroll	Arcane Lv 1	Scroll	Arcane Lv 1	Scroll (magic missile)	25 gp	1				
+Scroll	Arcane Lv 1	Scroll	Arcane Lv 1	Scroll (magic weapon)	25 gp	1				
+Scroll	Arcane Lv 1	Scroll	Arcane Lv 1	Scroll (obscuring mist)	25 gp	1				
+Scroll	Arcane Lv 1	Scroll	Arcane Lv 1	Scroll (protection from chaos)	25 gp	1				
+Scroll	Arcane Lv 1	Scroll	Arcane Lv 1	Scroll (protection from evil)	25 gp	1				
+Scroll	Arcane Lv 1	Scroll	Arcane Lv 1	Scroll (protection from good)	25 gp	1				
+Scroll	Arcane Lv 1	Scroll	Arcane Lv 1	Scroll (protection from law)	25 gp	1				
+Scroll	Arcane Lv 1	Scroll	Arcane Lv 1	Scroll (ray of enfeeblement)	25 gp	1				
+Scroll	Arcane Lv 1	Scroll	Arcane Lv 1	Scroll (shield)	25 gp	1				
+Scroll	Arcane Lv 1	Scroll	Arcane Lv 1	Scroll (shocking grasp)	25 gp	1				
+Scroll	Arcane Lv 1	Scroll	Arcane Lv 1	Scroll (silent image)	25 gp	1				
+Scroll	Arcane Lv 1	Scroll	Arcane Lv 1	Scroll (sleep)	25 gp	1				
+Scroll	Arcane Lv 1	Scroll	Arcane Lv 1	Scroll (summon monster i)	25 gp	1				
+Scroll	Arcane Lv 1	Scroll	Arcane Lv 1	Scroll (true strike)	25 gp	1				
+Scroll	Arcane Lv 1	Scroll	Arcane Lv 1	Scroll (air bubble)	25 gp	1				
+Scroll	Arcane Lv 1	Scroll	Arcane Lv 1	Scroll (alarm)	25 gp	1				
+Scroll	Arcane Lv 1	Scroll	Arcane Lv 1	Scroll (animate rope)	25 gp	1				
+Scroll	Arcane Lv 1	Scroll	Arcane Lv 1	Scroll (ant haul)	25 gp	1				
+Scroll	Arcane Lv 1	Scroll	Arcane Lv 1	Scroll (blend)	25 gp	1				
+Scroll	Arcane Lv 1	Scroll	Arcane Lv 1	Scroll (break)	25 gp	1				
+Scroll	Arcane Lv 1	Scroll	Arcane Lv 1	Scroll (color spray)	25 gp	1				
+Scroll	Arcane Lv 1	Scroll	Arcane Lv 1	Scroll (comprehend languages)	25 gp	1				
+Scroll	Arcane Lv 1	Scroll	Arcane Lv 1	Scroll (corrosive touch)	25 gp	1				
+Scroll	Arcane Lv 1	Scroll	Arcane Lv 1	Scroll (detect secret doors)	25 gp	1				
+Scroll	Arcane Lv 1	Scroll	Arcane Lv 1	Scroll (detect undead)	25 gp	1				
+Scroll	Arcane Lv 1	Scroll	Arcane Lv 1	Scroll (erase)	25 gp	1				
+Scroll	Arcane Lv 1	Scroll	Arcane Lv 1	Scroll (flare burst)	25 gp	1				
+Scroll	Arcane Lv 1	Scroll	Arcane Lv 1	Scroll (floating disk)	25 gp	1				
+Scroll	Arcane Lv 1	Scroll	Arcane Lv 1	Scroll (hold portal)	25 gp	1				
+Scroll	Arcane Lv 1	Scroll	Arcane Lv 1	Scroll (hydraulic push)	25 gp	1				
+Scroll	Arcane Lv 1	Scroll	Arcane Lv 1	Scroll (icicle dagger)	25 gp	1				
+Scroll	Arcane Lv 1	Scroll	Arcane Lv 1	Scroll (illusion of calm)	25 gp	1				
+Scroll	Arcane Lv 1	Scroll	Arcane Lv 1	Scroll (jump)	25 gp	1				
+Scroll	Arcane Lv 1	Scroll	Arcane Lv 1	Scroll (magic aura)	25 gp	1				
+Scroll	Arcane Lv 1	Scroll	Arcane Lv 1	Scroll (mirror strike)	25 gp	1				
+Scroll	Arcane Lv 1	Scroll	Arcane Lv 1	Scroll (mount)	25 gp	1				
+Scroll	Arcane Lv 1	Scroll	Arcane Lv 1	Scroll (ray of sickening)	25 gp	1				
+Scroll	Arcane Lv 1	Scroll	Arcane Lv 1	Scroll (reduce person)	25 gp	1				
+Scroll	Arcane Lv 1	Scroll	Arcane Lv 1	Scroll (shadow weapon)	25 gp	1				
+Scroll	Arcane Lv 1	Scroll	Arcane Lv 1	Scroll (shock shield)	25 gp	1				
+Scroll	Arcane Lv 1	Scroll	Arcane Lv 1	Scroll (stone fist)	25 gp	1				
+Scroll	Arcane Lv 1	Scroll	Arcane Lv 1	Scroll (touch of the sea)	25 gp	1				
+Scroll	Arcane Lv 1	Scroll	Arcane Lv 1	Scroll (unseen servant)	25 gp	1				
+Scroll	Arcane Lv 1	Scroll	Arcane Lv 1	Scroll (urban grace)	25 gp	1				
+Scroll	Arcane Lv 1	Scroll	Arcane Lv 1	Scroll (vanish)	25 gp	1				
+Scroll	Arcane Lv 1	Scroll	Arcane Lv 1	Scroll (ventriloquism)	25 gp	1				
+Scroll	Arcane Lv 1	Scroll	Arcane Lv 1	Scroll (voice alteration)	25 gp	1				
+Scroll	Arcane Lv 2	Scroll	Arcane Lv 2	Scroll (acid arrow)	150 gp	3				
+Scroll	Arcane Lv 2	Scroll	Arcane Lv 2	Scroll (alter self)	150 gp	3				
+Scroll	Arcane Lv 2	Scroll	Arcane Lv 2	Scroll (bear's endurance)	150 gp	3				
+Scroll	Arcane Lv 2	Scroll	Arcane Lv 2	Scroll (blur)	150 gp	3				
+Scroll	Arcane Lv 2	Scroll	Arcane Lv 2	Scroll (bull's strength)	150 gp	3				
+Scroll	Arcane Lv 2	Scroll	Arcane Lv 2	Scroll (cat's grace)	150 gp	3				
+Scroll	Arcane Lv 2	Scroll	Arcane Lv 2	Scroll (darkness)	150 gp	3				
+Scroll	Arcane Lv 2	Scroll	Arcane Lv 2	Scroll (darkvision)	150 gp	3				
+Scroll	Arcane Lv 2	Scroll	Arcane Lv 2	Scroll (eagle's splendor)	150 gp	3				
+Scroll	Arcane Lv 2	Scroll	Arcane Lv 2	Scroll (false life)	150 gp	3				
+Scroll	Arcane Lv 2	Scroll	Arcane Lv 2	Scroll (flaming sphere)	150 gp	3				
+Scroll	Arcane Lv 2	Scroll	Arcane Lv 2	Scroll (fox's cunning)	150 gp	3				
+Scroll	Arcane Lv 2	Scroll	Arcane Lv 2	Scroll (glitterdust)	150 gp	3				
+Scroll	Arcane Lv 2	Scroll	Arcane Lv 2	Scroll (invisibility)	150 gp	3				
+Scroll	Arcane Lv 2	Scroll	Arcane Lv 2	Scroll (knock)	150 gp	3				
+Scroll	Arcane Lv 2	Scroll	Arcane Lv 2	Scroll (levitate)	150 gp	3				
+Scroll	Arcane Lv 2	Scroll	Arcane Lv 2	Scroll (minor image)	150 gp	3				
+Scroll	Arcane Lv 2	Scroll	Arcane Lv 2	Scroll (mirror image)	150 gp	3				
+Scroll	Arcane Lv 2	Scroll	Arcane Lv 2	Scroll (owl's wisdom)	150 gp	3				
+Scroll	Arcane Lv 2	Scroll	Arcane Lv 2	Scroll (resist energy)	150 gp	3				
+Scroll	Arcane Lv 2	Scroll	Arcane Lv 2	Scroll (rope trick)	150 gp	3				
+Scroll	Arcane Lv 2	Scroll	Arcane Lv 2	Scroll (scorching ray)	150 gp	3				
+Scroll	Arcane Lv 2	Scroll	Arcane Lv 2	Scroll (see invisibility)	150 gp	3				
+Scroll	Arcane Lv 2	Scroll	Arcane Lv 2	Scroll (shatter)	150 gp	3				
+Scroll	Arcane Lv 2	Scroll	Arcane Lv 2	Scroll (spider climb)	150 gp	3				
+Scroll	Arcane Lv 2	Scroll	Arcane Lv 2	Scroll (summon monster ii)	150 gp	3				
+Scroll	Arcane Lv 2	Scroll	Arcane Lv 2	Scroll (summon swarm)	150 gp	3				
+Scroll	Arcane Lv 2	Scroll	Arcane Lv 2	Scroll (web)	150 gp	3				
+Scroll	Arcane Lv 2	Scroll	Arcane Lv 2	Scroll (whispering wind)	150 gp	3				
+Scroll	Arcane Lv 2	Scroll	Arcane Lv 2	Scroll (bestow weapon proficiency)	150 gp	3				
+Scroll	Arcane Lv 2	Scroll	Arcane Lv 2	Scroll (blindness/deafness)	150 gp	3				
+Scroll	Arcane Lv 2	Scroll	Arcane Lv 2	Scroll (burning gaze)	150 gp	3				
+Scroll	Arcane Lv 2	Scroll	Arcane Lv 2	Scroll (certain grip)	150 gp	3				
+Scroll	Arcane Lv 2	Scroll	Arcane Lv 2	Scroll (command undead)	150 gp	3				
+Scroll	Arcane Lv 2	Scroll	Arcane Lv 2	Scroll (create pit)	150 gp	3				
+Scroll	Arcane Lv 2	Scroll	Arcane Lv 2	Scroll (daze monster)	150 gp	3				
+Scroll	Arcane Lv 2	Scroll	Arcane Lv 2	Scroll (detect thoughts)	150 gp	3				
+Scroll	Arcane Lv 2	Scroll	Arcane Lv 2	Scroll (disguise other)	150 gp	3				
+Scroll	Arcane Lv 2	Scroll	Arcane Lv 2	Scroll (elemental touch)	150 gp	3				
+Scroll	Arcane Lv 2	Scroll	Arcane Lv 2	Scroll (fire breath)	150 gp	3				
+Scroll	Arcane Lv 2	Scroll	Arcane Lv 2	Scroll (fog cloud)	150 gp	3				
+Scroll	Arcane Lv 2	Scroll	Arcane Lv 2	Scroll (ghoul touch)	150 gp	3				
+Scroll	Arcane Lv 2	Scroll	Arcane Lv 2	Scroll (glide)	150 gp	3				
+Scroll	Arcane Lv 2	Scroll	Arcane Lv 2	Scroll (gust of wind)	150 gp	3				
+Scroll	Arcane Lv 2	Scroll	Arcane Lv 2	Scroll (haunting mists)	150 gp	3				
+Scroll	Arcane Lv 2	Scroll	Arcane Lv 2	Scroll (hideous laughter)	150 gp	3				
+Scroll	Arcane Lv 2	Scroll	Arcane Lv 2	Scroll (hypnotic pattern)	150 gp	3				
+Scroll	Arcane Lv 2	Scroll	Arcane Lv 2	Scroll (locate object)	150 gp	3				
+Scroll	Arcane Lv 2	Scroll	Arcane Lv 2	Scroll (make whole)	150 gp	3				
+Scroll	Arcane Lv 2	Scroll	Arcane Lv 2	Scroll (misdirection)	150 gp	3				
+Scroll	Arcane Lv 2	Scroll	Arcane Lv 2	Scroll (obscure object)	150 gp	3				
+Scroll	Arcane Lv 2	Scroll	Arcane Lv 2	Scroll (pernicious poison)	150 gp	3				
+Scroll	Arcane Lv 2	Scroll	Arcane Lv 2	Scroll (protection from arrows)	150 gp	3				
+Scroll	Arcane Lv 2	Scroll	Arcane Lv 2	Scroll (pyrotechnics)	150 gp	3				
+Scroll	Arcane Lv 2	Scroll	Arcane Lv 2	Scroll (returning weapon)	150 gp	3				
+Scroll	Arcane Lv 2	Scroll	Arcane Lv 2	Scroll (scare)	150 gp	3				
+Scroll	Arcane Lv 2	Scroll	Arcane Lv 2	Scroll (shadow anchor)	150 gp	3				
+Scroll	Arcane Lv 2	Scroll	Arcane Lv 2	Scroll (share memory)	150 gp	3				
+Scroll	Arcane Lv 2	Scroll	Arcane Lv 2	Scroll (slipstream)	150 gp	3				
+Scroll	Arcane Lv 2	Scroll	Arcane Lv 2	Scroll (spectral hand)	150 gp	3				
+Scroll	Arcane Lv 2	Scroll	Arcane Lv 2	Scroll (spontaneous immolation)	150 gp	3				
+Scroll	Arcane Lv 2	Scroll	Arcane Lv 2	Scroll (touch of idiocy)	150 gp	3				
+Scroll	Arcane Lv 2	Scroll	Arcane Lv 2	Scroll (unshakable chill)	150 gp	3				
+Scroll	Arcane Lv 2	Scroll	Arcane Lv 2	Scroll (magic mouth)	160 gp	3				
+Scroll	Arcane Lv 2	Scroll	Arcane Lv 2	Scroll (arcane lock)	175 gp	3				
+Scroll	Arcane Lv 2	Scroll	Arcane Lv 2	Scroll (continual flame)	200 gp	3				
+Scroll	Arcane Lv 2	Scroll	Arcane Lv 2	Scroll (phantom trap)	200 gp	3				
+Scroll	Arcane Lv 3	Scroll	Arcane Lv 3	Scroll (beast shape i)	375 gp	5				
+Scroll	Arcane Lv 3	Scroll	Arcane Lv 3	Scroll (blink)	375 gp	5				
+Scroll	Arcane Lv 3	Scroll	Arcane Lv 3	Scroll (dispel magic)	375 gp	5				
+Scroll	Arcane Lv 3	Scroll	Arcane Lv 3	Scroll (displacement)	375 gp	5				
+Scroll	Arcane Lv 3	Scroll	Arcane Lv 3	Scroll (fireball)	375 gp	5				
+Scroll	Arcane Lv 3	Scroll	Arcane Lv 3	Scroll (flame arrow)	375 gp	5				
+Scroll	Arcane Lv 3	Scroll	Arcane Lv 3	Scroll (fly)	375 gp	5				
+Scroll	Arcane Lv 3	Scroll	Arcane Lv 3	Scroll (gaseous form)	375 gp	5				
+Scroll	Arcane Lv 3	Scroll	Arcane Lv 3	Scroll (haste)	375 gp	5				
+Scroll	Arcane Lv 3	Scroll	Arcane Lv 3	Scroll (heroism)	375 gp	5				
+Scroll	Arcane Lv 3	Scroll	Arcane Lv 3	Scroll (hold person)	375 gp	5				
+Scroll	Arcane Lv 3	Scroll	Arcane Lv 3	Scroll (invisibility sphere)	375 gp	5				
+Scroll	Arcane Lv 3	Scroll	Arcane Lv 3	Scroll (lightning bolt)	375 gp	5				
+Scroll	Arcane Lv 3	Scroll	Arcane Lv 3	Scroll (magic circle against chaos)	375 gp	5				
+Scroll	Arcane Lv 3	Scroll	Arcane Lv 3	Scroll (magic circle against evil)	375 gp	5				
+Scroll	Arcane Lv 3	Scroll	Arcane Lv 3	Scroll (magic circle against good)	375 gp	5				
+Scroll	Arcane Lv 3	Scroll	Arcane Lv 3	Scroll (magic circle against law)	375 gp	5				
+Scroll	Arcane Lv 3	Scroll	Arcane Lv 3	Scroll (major image)	375 gp	5				
+Scroll	Arcane Lv 3	Scroll	Arcane Lv 3	Scroll (phantom steed)	375 gp	5				
+Scroll	Arcane Lv 3	Scroll	Arcane Lv 3	Scroll (protection from energy)	375 gp	5				
+Scroll	Arcane Lv 3	Scroll	Arcane Lv 3	Scroll (slow)	375 gp	5				
+Scroll	Arcane Lv 3	Scroll	Arcane Lv 3	Scroll (stinking cloud)	375 gp	5				
+Scroll	Arcane Lv 3	Scroll	Arcane Lv 3	Scroll (suggestion)	375 gp	5				
+Scroll	Arcane Lv 3	Scroll	Arcane Lv 3	Scroll (summon monster iii)	375 gp	5				
+Scroll	Arcane Lv 3	Scroll	Arcane Lv 3	Scroll (tiny hut)	375 gp	5				
+Scroll	Arcane Lv 3	Scroll	Arcane Lv 3	Scroll (tongues)	375 gp	5				
+Scroll	Arcane Lv 3	Scroll	Arcane Lv 3	Scroll (vampiric touch)	375 gp	5				
+Scroll	Arcane Lv 3	Scroll	Arcane Lv 3	Scroll (water breathing)	375 gp	5				
+Scroll	Arcane Lv 3	Scroll	Arcane Lv 3	Scroll (animate dead, lesser)	375 gp	5				
+Scroll	Arcane Lv 3	Scroll	Arcane Lv 3	Scroll (aqueous orb)	375 gp	5				
+Scroll	Arcane Lv 3	Scroll	Arcane Lv 3	Scroll (arcane sight)	375 gp	5				
+Scroll	Arcane Lv 3	Scroll	Arcane Lv 3	Scroll (beast shape)	375 gp	5				
+Scroll	Arcane Lv 3	Scroll	Arcane Lv 3	Scroll (clairaudience/clairvoyance)	375 gp	5				
+Scroll	Arcane Lv 3	Scroll	Arcane Lv 3	Scroll (cloak of winds)	375 gp	5				
+Scroll	Arcane Lv 3	Scroll	Arcane Lv 3	Scroll (daylight)	375 gp	5				
+Scroll	Arcane Lv 3	Scroll	Arcane Lv 3	Scroll (deep slumber)	375 gp	5				
+Scroll	Arcane Lv 3	Scroll	Arcane Lv 3	Scroll (distracting cacophony)	375 gp	5				
+Scroll	Arcane Lv 3	Scroll	Arcane Lv 3	Scroll (draconic reservoir)	375 gp	5				
+Scroll	Arcane Lv 3	Scroll	Arcane Lv 3	Scroll (elemental aura)	375 gp	5				
+Scroll	Arcane Lv 3	Scroll	Arcane Lv 3	Scroll (explosive runes)	375 gp	5				
+Scroll	Arcane Lv 3	Scroll	Arcane Lv 3	Scroll (force punch)	375 gp	5				
+Scroll	Arcane Lv 3	Scroll	Arcane Lv 3	Scroll (gentle repose)	375 gp	5				
+Scroll	Arcane Lv 3	Scroll	Arcane Lv 3	Scroll (halt undead)	375 gp	5				
+Scroll	Arcane Lv 3	Scroll	Arcane Lv 3	Scroll (healing thief)	375 gp	5				
+Scroll	Arcane Lv 3	Scroll	Arcane Lv 3	Scroll (hydraulic torrent)	375 gp	5				
+Scroll	Arcane Lv 3	Scroll	Arcane Lv 3	Scroll (keen edge)	375 gp	5				
+Scroll	Arcane Lv 3	Scroll	Arcane Lv 3	Scroll (magic weapon, greater)	375 gp	5				
+Scroll	Arcane Lv 3	Scroll	Arcane Lv 3	Scroll (monstrous physique i)	375 gp	5				
+Scroll	Arcane Lv 3	Scroll	Arcane Lv 3	Scroll (rage)	375 gp	5				
+Scroll	Arcane Lv 3	Scroll	Arcane Lv 3	Scroll (ray of exhaustion)	375 gp	5				
+Scroll	Arcane Lv 3	Scroll	Arcane Lv 3	Scroll (resinous skin)	375 gp	5				
+Scroll	Arcane Lv 3	Scroll	Arcane Lv 3	Scroll (resist energy, communal)	375 gp	5				
+Scroll	Arcane Lv 3	Scroll	Arcane Lv 3	Scroll (secret page)	375 gp	5				
+Scroll	Arcane Lv 3	Scroll	Arcane Lv 3	Scroll (shrink item)	375 gp	5				
+Scroll	Arcane Lv 3	Scroll	Arcane Lv 3	Scroll (sleet storm)	375 gp	5				
+Scroll	Arcane Lv 3	Scroll	Arcane Lv 3	Scroll (spiked pit)	375 gp	5				
+Scroll	Arcane Lv 3	Scroll	Arcane Lv 3	Scroll (undead anatomy i)	375 gp	5				
+Scroll	Arcane Lv 3	Scroll	Arcane Lv 3	Scroll (versatile weapon)	375 gp	5				
+Scroll	Arcane Lv 3	Scroll	Arcane Lv 3	Scroll (wind wall)	375 gp	5				
+Scroll	Arcane Lv 3	Scroll	Arcane Lv 3	Scroll (illusory script)	425 gp	5				
+Scroll	Arcane Lv 3	Scroll	Arcane Lv 3	Scroll (nondetection)	425 gp	5				
+Scroll	Arcane Lv 3	Scroll	Arcane Lv 3	Scroll (sepia snake sigil)	875 gp	5				
+Scroll	Arcane Lv 4	Scroll	Arcane Lv 4	Scroll (beast shape ii)	700 gp	7				
+Scroll	Arcane Lv 4	Scroll	Arcane Lv 4	Scroll (bestow curse)	700 gp	7				
+Scroll	Arcane Lv 4	Scroll	Arcane Lv 4	Scroll (black tentacles)	700 gp	7				
+Scroll	Arcane Lv 4	Scroll	Arcane Lv 4	Scroll (charm monster)	700 gp	7				
+Scroll	Arcane Lv 4	Scroll	Arcane Lv 4	Scroll (confusion)	700 gp	7				
+Scroll	Arcane Lv 4	Scroll	Arcane Lv 4	Scroll (crushing despair)	700 gp	7				
+Scroll	Arcane Lv 4	Scroll	Arcane Lv 4	Scroll (dimension door)	700 gp	7				
+Scroll	Arcane Lv 4	Scroll	Arcane Lv 4	Scroll (dimensional anchor)	700 gp	7				
+Scroll	Arcane Lv 4	Scroll	Arcane Lv 4	Scroll (elemental body i)	700 gp	7				
+Scroll	Arcane Lv 4	Scroll	Arcane Lv 4	Scroll (enervation)	700 gp	7				
+Scroll	Arcane Lv 4	Scroll	Arcane Lv 4	Scroll (enlarge person, mass)	700 gp	7				
+Scroll	Arcane Lv 4	Scroll	Arcane Lv 4	Scroll (fear)	700 gp	7				
+Scroll	Arcane Lv 4	Scroll	Arcane Lv 4	Scroll (fire shield)	700 gp	7				
+Scroll	Arcane Lv 4	Scroll	Arcane Lv 4	Scroll (ice storm)	700 gp	7				
+Scroll	Arcane Lv 4	Scroll	Arcane Lv 4	Scroll (invisibility, greater)	700 gp	7				
+Scroll	Arcane Lv 4	Scroll	Arcane Lv 4	Scroll (phantasmal killer)	700 gp	7				
+Scroll	Arcane Lv 4	Scroll	Arcane Lv 4	Scroll (resilient sphere)	700 gp	7				
+Scroll	Arcane Lv 4	Scroll	Arcane Lv 4	Scroll (scrying)	700 gp	7				
+Scroll	Arcane Lv 4	Scroll	Arcane Lv 4	Scroll (shadow conjuration)	700 gp	7				
+Scroll	Arcane Lv 4	Scroll	Arcane Lv 4	Scroll (shout)	700 gp	7				
+Scroll	Arcane Lv 4	Scroll	Arcane Lv 4	Scroll (solid fog)	700 gp	7				
+Scroll	Arcane Lv 4	Scroll	Arcane Lv 4	Scroll (stone shape)	700 gp	7				
+Scroll	Arcane Lv 4	Scroll	Arcane Lv 4	Scroll (summon monster iv)	700 gp	7				
+Scroll	Arcane Lv 4	Scroll	Arcane Lv 4	Scroll (wall of fire)	700 gp	7				
+Scroll	Arcane Lv 4	Scroll	Arcane Lv 4	Scroll (wall of ice)	700 gp	7				
+Scroll	Arcane Lv 4	Scroll	Arcane Lv 4	Scroll (stoneskin)	950 gp	7				
+Scroll	Arcane Lv 4	Scroll	Arcane Lv 4	Scroll (animate dead)	1050 gp	7				
+Scroll	Arcane Lv 4	Scroll	Arcane Lv 4	Scroll (acid pit)	700 gp	7				
+Scroll	Arcane Lv 4	Scroll	Arcane Lv 4	Scroll (arcane eye)	700 gp	7				
+Scroll	Arcane Lv 4	Scroll	Arcane Lv 4	Scroll (ball lightning)	700 gp	7				
+Scroll	Arcane Lv 4	Scroll	Arcane Lv 4	Scroll (contagion)	700 gp	7				
+Scroll	Arcane Lv 4	Scroll	Arcane Lv 4	Scroll (darkvision, greater)	700 gp	7				
+Scroll	Arcane Lv 4	Scroll	Arcane Lv 4	Scroll (detect scrying)	700 gp	7				
+Scroll	Arcane Lv 4	Scroll	Arcane Lv 4	Scroll (dragon's breath)	700 gp	7				
+Scroll	Arcane Lv 4	Scroll	Arcane Lv 4	Scroll (false life, greater)	700 gp	7				
+Scroll	Arcane Lv 4	Scroll	Arcane Lv 4	Scroll (firefall)	700 gp	7				
+Scroll	Arcane Lv 4	Scroll	Arcane Lv 4	Scroll (geas, lesser)	700 gp	7				
+Scroll	Arcane Lv 4	Scroll	Arcane Lv 4	Scroll (ghost wolf)	700 gp	7				
+Scroll	Arcane Lv 4	Scroll	Arcane Lv 4	Scroll (hallucinatory terrain)	700 gp	7				
+Scroll	Arcane Lv 4	Scroll	Arcane Lv 4	Scroll (illusory wall)	700 gp	7				
+Scroll	Arcane Lv 4	Scroll	Arcane Lv 4	Scroll (locate creature)	700 gp	7				
+Scroll	Arcane Lv 4	Scroll	Arcane Lv 4	Scroll (minor creation)	700 gp	7				
+Scroll	Arcane Lv 4	Scroll	Arcane Lv 4	Scroll (monstrous physique ii)	700 gp	7				
+Scroll	Arcane Lv 4	Scroll	Arcane Lv 4	Scroll (obsidian flow)	700 gp	7				
+Scroll	Arcane Lv 4	Scroll	Arcane Lv 4	Scroll (phantom chariot)	700 gp	7				
+Scroll	Arcane Lv 4	Scroll	Arcane Lv 4	Scroll (rainbow pattern)	700 gp	7				
+Scroll	Arcane Lv 4	Scroll	Arcane Lv 4	Scroll (reduce person, mass)	700 gp	7				
+Scroll	Arcane Lv 4	Scroll	Arcane Lv 4	Scroll (remove curse)	700 gp	7				
+Scroll	Arcane Lv 4	Scroll	Arcane Lv 4	Scroll (secure shelter)	700 gp	7				
+Scroll	Arcane Lv 4	Scroll	Arcane Lv 4	Scroll (shadow projection)	700 gp	7				
+Scroll	Arcane Lv 4	Scroll	Arcane Lv 4	Scroll (shocking image)	700 gp	7				
+Scroll	Arcane Lv 4	Scroll	Arcane Lv 4	Scroll (telekinetic charge)	700 gp	7				
+Scroll	Arcane Lv 4	Scroll	Arcane Lv 4	Scroll (true form)	700 gp	7				
+Scroll	Arcane Lv 4	Scroll	Arcane Lv 4	Scroll (vermin shape i)	700 gp	7				
+Scroll	Arcane Lv 4	Scroll	Arcane Lv 4	Scroll (volcanic storm)	700 gp	7				
+Scroll	Arcane Lv 4	Scroll	Arcane Lv 4	Scroll (wandering star motes)	700 gp	7				
+Scroll	Arcane Lv 4	Scroll	Arcane Lv 4	Scroll (fire trap)	725 gp	7				
+Scroll	Arcane Lv 4	Scroll	Arcane Lv 4	Scroll (mnemonic enhancer)	750 gp	7				
+Scroll	Arcane Lv 5	Scroll	Arcane Lv 5	Scroll (baleful polymorph)	1125 gp	9				
+Scroll	Arcane Lv 5	Scroll	Arcane Lv 5	Scroll (beast shape iii)	1125 gp	9				
+Scroll	Arcane Lv 5	Scroll	Arcane Lv 5	Scroll (break enchantment)	1125 gp	9				
+Scroll	Arcane Lv 5	Scroll	Arcane Lv 5	Scroll (cloudkill)	1125 gp	9				
+Scroll	Arcane Lv 5	Scroll	Arcane Lv 5	Scroll (cone of cold)	1125 gp	9				
+Scroll	Arcane Lv 5	Scroll	Arcane Lv 5	Scroll (contact other plane)	1125 gp	9				
+Scroll	Arcane Lv 5	Scroll	Arcane Lv 5	Scroll (dismissal)	1125 gp	9				
+Scroll	Arcane Lv 5	Scroll	Arcane Lv 5	Scroll (dominate person)	1125 gp	9				
+Scroll	Arcane Lv 5	Scroll	Arcane Lv 5	Scroll (feeblemind)	1125 gp	9				
+Scroll	Arcane Lv 5	Scroll	Arcane Lv 5	Scroll (hold monster)	1125 gp	9				
+Scroll	Arcane Lv 5	Scroll	Arcane Lv 5	Scroll (magic jar)	1125 gp	9				
+Scroll	Arcane Lv 5	Scroll	Arcane Lv 5	Scroll (mind fog)	1125 gp	9				
+Scroll	Arcane Lv 5	Scroll	Arcane Lv 5	Scroll (overland flight)	1125 gp	9				
+Scroll	Arcane Lv 5	Scroll	Arcane Lv 5	Scroll (passwall)	1125 gp	9				
+Scroll	Arcane Lv 5	Scroll	Arcane Lv 5	Scroll (permanency)	1125 gp	9				
+Scroll	Arcane Lv 5	Scroll	Arcane Lv 5	Scroll (planar binding, lesser)	1125 gp	9				
+Scroll	Arcane Lv 5	Scroll	Arcane Lv 5	Scroll (polymorph)	1125 gp	9				
+Scroll	Arcane Lv 5	Scroll	Arcane Lv 5	Scroll (sending)	1125 gp	9				
+Scroll	Arcane Lv 5	Scroll	Arcane Lv 5	Scroll (shadow evocation)	1125 gp	9				
+Scroll	Arcane Lv 5	Scroll	Arcane Lv 5	Scroll (summon monster v)	1125 gp	9				
+Scroll	Arcane Lv 5	Scroll	Arcane Lv 5	Scroll (telekinesis)	1125 gp	9				
+Scroll	Arcane Lv 5	Scroll	Arcane Lv 5	Scroll (teleport)	1125 gp	9				
+Scroll	Arcane Lv 5	Scroll	Arcane Lv 5	Scroll (wall of force)	1125 gp	9				
+Scroll	Arcane Lv 5	Scroll	Arcane Lv 5	Scroll (wall of stone)	1125 gp	9				
+Scroll	Arcane Lv 5	Scroll	Arcane Lv 5	Scroll (waves of fatigue)	1125 gp	9				
+Scroll	Arcane Lv 5	Scroll	Arcane Lv 5	Scroll (symbol of pain)	2125 gp	9				
+Scroll	Arcane Lv 5	Scroll	Arcane Lv 5	Scroll (symbol of sleep)	2125 gp	9				
+Scroll	Arcane Lv 5	Scroll	Arcane Lv 5	Scroll (absorb toxicity)	1125 gp	9				
+Scroll	Arcane Lv 5	Scroll	Arcane Lv 5	Scroll (animal growth)	1125 gp	9				
+Scroll	Arcane Lv 5	Scroll	Arcane Lv 5	Scroll (blight)	1125 gp	9				
+Scroll	Arcane Lv 5	Scroll	Arcane Lv 5	Scroll (dream)	1125 gp	9				
+Scroll	Arcane Lv 5	Scroll	Arcane Lv 5	Scroll (elemental body ii)	1125 gp	9				
+Scroll	Arcane Lv 5	Scroll	Arcane Lv 5	Scroll (fabricate)	1125 gp	9				
+Scroll	Arcane Lv 5	Scroll	Arcane Lv 5	Scroll (fire snake)	1125 gp	9				
+Scroll	Arcane Lv 5	Scroll	Arcane Lv 5	Scroll (hostile juxtaposition)	1125 gp	9				
+Scroll	Arcane Lv 5	Scroll	Arcane Lv 5	Scroll (hungry pit)	1125 gp	9				
+Scroll	Arcane Lv 5	Scroll	Arcane Lv 5	Scroll (icy prison)	1125 gp	9				
+Scroll	Arcane Lv 5	Scroll	Arcane Lv 5	Scroll (interposing hand)	1125 gp	9				
+Scroll	Arcane Lv 5	Scroll	Arcane Lv 5	Scroll (life bubble)	1125 gp	9				
+Scroll	Arcane Lv 5	Scroll	Arcane Lv 5	Scroll (mage's faithful hound)	1125 gp	9				
+Scroll	Arcane Lv 5	Scroll	Arcane Lv 5	Scroll (mage's private sanctum)	1125 gp	9				
+Scroll	Arcane Lv 5	Scroll	Arcane Lv 5	Scroll (major creation)	1125 gp	9				
+Scroll	Arcane Lv 5	Scroll	Arcane Lv 5	Scroll (mirage arcana)	1125 gp	9				
+Scroll	Arcane Lv 5	Scroll	Arcane Lv 5	Scroll (monstrous physique iii)	1125 gp	9				
+Scroll	Arcane Lv 5	Scroll	Arcane Lv 5	Scroll (nightmare)	1125 gp	9				
+Scroll	Arcane Lv 5	Scroll	Arcane Lv 5	Scroll (persistent image)	1125 gp	9				
+Scroll	Arcane Lv 5	Scroll	Arcane Lv 5	Scroll (planar adaptation)	1125 gp	9				
+Scroll	Arcane Lv 5	Scroll	Arcane Lv 5	Scroll (plant shape i)	1125 gp	9				
+Scroll	Arcane Lv 5	Scroll	Arcane Lv 5	Scroll (prying eyes)	1125 gp	9				
+Scroll	Arcane Lv 5	Scroll	Arcane Lv 5	Scroll (secret chest)	1125 gp	9				
+Scroll	Arcane Lv 5	Scroll	Arcane Lv 5	Scroll (seeming)	1125 gp	9				
+Scroll	Arcane Lv 5	Scroll	Arcane Lv 5	Scroll (sonic thrust)	1125 gp	9				
+Scroll	Arcane Lv 5	Scroll	Arcane Lv 5	Scroll (suffocation)	1125 gp	9				
+Scroll	Arcane Lv 5	Scroll	Arcane Lv 5	Scroll (telepathic bond)	1125 gp	9				
+Scroll	Arcane Lv 5	Scroll	Arcane Lv 5	Scroll (transmute mud to rock)	1125 gp	9				
+Scroll	Arcane Lv 5	Scroll	Arcane Lv 5	Scroll (transmute rock to mud)	1125 gp	9				
+Scroll	Arcane Lv 5	Scroll	Arcane Lv 5	Scroll (undead anatomy ii)	1125 gp	9				
+Scroll	Arcane Lv 5	Scroll	Arcane Lv 5	Scroll (vermin form ii)	1125 gp	9				
+Scroll	Arcane Lv 5	Scroll	Arcane Lv 5	Scroll (wind blades)	1125 gp	9				
+Scroll	Arcane Lv 5	Scroll	Arcane Lv 5	Scroll (false vision)	1375 gp	9				
+Scroll	Arcane Lv 6	Scroll	Arcane Lv 6	Scroll (acid fog)	1650 gp	11				
+Scroll	Arcane Lv 6	Scroll	Arcane Lv 6	Scroll (antimagic field)	1650 gp	11				
+Scroll	Arcane Lv 6	Scroll	Arcane Lv 6	Scroll (bear's endurance, mass)	1650 gp	11				
+Scroll	Arcane Lv 6	Scroll	Arcane Lv 6	Scroll (beast shape iv)	1650 gp	11				
+Scroll	Arcane Lv 6	Scroll	Arcane Lv 6	Scroll (bull's strength, mass)	1650 gp	11				
+Scroll	Arcane Lv 6	Scroll	Arcane Lv 6	Scroll (cat's grace, mass)	1650 gp	11				
+Scroll	Arcane Lv 6	Scroll	Arcane Lv 6	Scroll (chain lightning)	1650 gp	11				
+Scroll	Arcane Lv 6	Scroll	Arcane Lv 6	Scroll (disintegrate)	1650 gp	11				
+Scroll	Arcane Lv 6	Scroll	Arcane Lv 6	Scroll (dispel magic, greater)	1650 gp	11				
+Scroll	Arcane Lv 6	Scroll	Arcane Lv 6	Scroll (eagle's splendor, mass)	1650 gp	11				
+Scroll	Arcane Lv 6	Scroll	Arcane Lv 6	Scroll (eyebite)	1650 gp	11				
+Scroll	Arcane Lv 6	Scroll	Arcane Lv 6	Scroll (flesh to stone)	1650 gp	11				
+Scroll	Arcane Lv 6	Scroll	Arcane Lv 6	Scroll (form of the dragon i)	1650 gp	11				
+Scroll	Arcane Lv 6	Scroll	Arcane Lv 6	Scroll (fox's cunning, mass)	1650 gp	11				
+Scroll	Arcane Lv 6	Scroll	Arcane Lv 6	Scroll (globe of invulnerability)	1650 gp	11				
+Scroll	Arcane Lv 6	Scroll	Arcane Lv 6	Scroll (heroism, greater)	1650 gp	11				
+Scroll	Arcane Lv 6	Scroll	Arcane Lv 6	Scroll (mislead)	1650 gp	11				
+Scroll	Arcane Lv 6	Scroll	Arcane Lv 6	Scroll (owl's wisdom, mass)	1650 gp	11				
+Scroll	Arcane Lv 6	Scroll	Arcane Lv 6	Scroll (planar binding)	1650 gp	11				
+Scroll	Arcane Lv 6	Scroll	Arcane Lv 6	Scroll (shadow walk)	1650 gp	11				
+Scroll	Arcane Lv 6	Scroll	Arcane Lv 6	Scroll (stone to flesh)	1650 gp	11				
+Scroll	Arcane Lv 6	Scroll	Arcane Lv 6	Scroll (suggestion, mass)	1650 gp	11				
+Scroll	Arcane Lv 6	Scroll	Arcane Lv 6	Scroll (summon monster vi)	1650 gp	11				
+Scroll	Arcane Lv 6	Scroll	Arcane Lv 6	Scroll (transformation)	1650 gp	11				
+Scroll	Arcane Lv 6	Scroll	Arcane Lv 6	Scroll (veil)	1650 gp	11				
+Scroll	Arcane Lv 6	Scroll	Arcane Lv 6	Scroll (wall of iron)	1700 gp	11				
+Scroll	Arcane Lv 6	Scroll	Arcane Lv 6	Scroll (create undead)	1750 gp	11				
+Scroll	Arcane Lv 6	Scroll	Arcane Lv 6	Scroll (legend lore)	1900 gp	11				
+Scroll	Arcane Lv 6	Scroll	Arcane Lv 6	Scroll (true seeing)	1900 gp	11				
+Scroll	Arcane Lv 6	Scroll	Arcane Lv 6	Scroll (circle of death)	2150 gp	11				
+Scroll	Arcane Lv 6	Scroll	Arcane Lv 6	Scroll (symbol of fear)	2650 gp	11				
+Scroll	Arcane Lv 6	Scroll	Arcane Lv 6	Scroll (analyze dweomer)	1650 gp	11				
+Scroll	Arcane Lv 6	Scroll	Arcane Lv 6	Scroll (battlemind link)	1650 gp	11				
+Scroll	Arcane Lv 6	Scroll	Arcane Lv 6	Scroll (cloak of dreams)	1650 gp	11				
+Scroll	Arcane Lv 6	Scroll	Arcane Lv 6	Scroll (contagion, greater)	1650 gp	11				
+Scroll	Arcane Lv 6	Scroll	Arcane Lv 6	Scroll (contagious flame)	1650 gp	11				
+Scroll	Arcane Lv 6	Scroll	Arcane Lv 6	Scroll (contingency)	1650 gp	11				
+Scroll	Arcane Lv 6	Scroll	Arcane Lv 6	Scroll (control water)	1650 gp	11				
+Scroll	Arcane Lv 6	Scroll	Arcane Lv 6	Scroll (elemental body iii)	1650 gp	11				
+Scroll	Arcane Lv 6	Scroll	Arcane Lv 6	Scroll (fluid form)	1650 gp	11				
+Scroll	Arcane Lv 6	Scroll	Arcane Lv 6	Scroll (forceful hand)	1650 gp	11				
+Scroll	Arcane Lv 6	Scroll	Arcane Lv 6	Scroll (freezing sphere)	1650 gp	11				
+Scroll	Arcane Lv 6	Scroll	Arcane Lv 6	Scroll (geas/quest)	1650 gp	11				
+Scroll	Arcane Lv 6	Scroll	Arcane Lv 6	Scroll (getaway)	1650 gp	11				
+Scroll	Arcane Lv 6	Scroll	Arcane Lv 6	Scroll (guards and wards)	1650 gp	11				
+Scroll	Arcane Lv 6	Scroll	Arcane Lv 6	Scroll (mage's lucubration)	1650 gp	11				
+Scroll	Arcane Lv 6	Scroll	Arcane Lv 6	Scroll (monstrous physique iv)	1650 gp	11				
+Scroll	Arcane Lv 6	Scroll	Arcane Lv 6	Scroll (move earth)	1650 gp	11				
+Scroll	Arcane Lv 6	Scroll	Arcane Lv 6	Scroll (permanent image)	1650 gp	11				
+Scroll	Arcane Lv 6	Scroll	Arcane Lv 6	Scroll (plant shape ii)	1650 gp	11				
+Scroll	Arcane Lv 6	Scroll	Arcane Lv 6	Scroll (repulsion)	1650 gp	11				
+Scroll	Arcane Lv 6	Scroll	Arcane Lv 6	Scroll (sirocco)	1650 gp	11				
+Scroll	Arcane Lv 6	Scroll	Arcane Lv 6	Scroll (tar pool)	1650 gp	11				
+Scroll	Arcane Lv 6	Scroll	Arcane Lv 6	Scroll (undead anatomy iii)	1650 gp	11				
+Scroll	Arcane Lv 6	Scroll	Arcane Lv 6	Scroll (programmed image)	1675 gp	11				
+Scroll	Arcane Lv 6	Scroll	Arcane Lv 6	Scroll (undeath to death)	2150 gp	11				
+Scroll	Arcane Lv 6	Scroll	Arcane Lv 6	Scroll (symbol of persuasion)	6650 gp	11				
+Scroll	Arcane Lv 7	Scroll	Arcane Lv 7	Scroll (arcane sight, greater)	2275 gp	13				
+Scroll	Arcane Lv 7	Scroll	Arcane Lv 7	Scroll (banishment)	2275 gp	13				
+Scroll	Arcane Lv 7	Scroll	Arcane Lv 7	Scroll (delayed blast fireball)	2275 gp	13				
+Scroll	Arcane Lv 7	Scroll	Arcane Lv 7	Scroll (ethereal jaunt)	2275 gp	13				
+Scroll	Arcane Lv 7	Scroll	Arcane Lv 7	Scroll (finger of death)	2275 gp	13				
+Scroll	Arcane Lv 7	Scroll	Arcane Lv 7	Scroll (form of the dragon ii)	2275 gp	13				
+Scroll	Arcane Lv 7	Scroll	Arcane Lv 7	Scroll (hold person, mass)	2275 gp	13				
+Scroll	Arcane Lv 7	Scroll	Arcane Lv 7	Scroll (invisibility, mass)	2275 gp	13				
+Scroll	Arcane Lv 7	Scroll	Arcane Lv 7	Scroll (mage's sword)	2275 gp	13				
+Scroll	Arcane Lv 7	Scroll	Arcane Lv 7	Scroll (phase door)	2275 gp	13				
+Scroll	Arcane Lv 7	Scroll	Arcane Lv 7	Scroll (plane shift)	2275 gp	13				
+Scroll	Arcane Lv 7	Scroll	Arcane Lv 7	Scroll (polymorph, greater)	2275 gp	13				
+Scroll	Arcane Lv 7	Scroll	Arcane Lv 7	Scroll (power word blind)	2275 gp	13				
+Scroll	Arcane Lv 7	Scroll	Arcane Lv 7	Scroll (prismatic spray)	2275 gp	13				
+Scroll	Arcane Lv 7	Scroll	Arcane Lv 7	Scroll (reverse gravity)	2275 gp	13				
+Scroll	Arcane Lv 7	Scroll	Arcane Lv 7	Scroll (scrying, greater)	2275 gp	13				
+Scroll	Arcane Lv 7	Scroll	Arcane Lv 7	Scroll (shadow conjuration, greater)	2275 gp	13				
+Scroll	Arcane Lv 7	Scroll	Arcane Lv 7	Scroll (spell turning)	2275 gp	13				
+Scroll	Arcane Lv 7	Scroll	Arcane Lv 7	Scroll (summon monster vii)	2275 gp	13				
+Scroll	Arcane Lv 7	Scroll	Arcane Lv 7	Scroll (teleport, greater)	2275 gp	13				
+Scroll	Arcane Lv 7	Scroll	Arcane Lv 7	Scroll (waves of exhaustion)	2275 gp	13				
+Scroll	Arcane Lv 7	Scroll	Arcane Lv 7	Scroll (project image)	2280 gp	13				
+Scroll	Arcane Lv 7	Scroll	Arcane Lv 7	Scroll (forcecage)	2775 gp	13				
+Scroll	Arcane Lv 7	Scroll	Arcane Lv 7	Scroll (limited wish)	3775 gp	13				
+Scroll	Arcane Lv 7	Scroll	Arcane Lv 7	Scroll (control undead)	2275 gp	13				
+Scroll	Arcane Lv 7	Scroll	Arcane Lv 7	Scroll (control weather)	2275 gp	13				
+Scroll	Arcane Lv 7	Scroll	Arcane Lv 7	Scroll (create demiplane, lesser)	2275 gp	13				
+Scroll	Arcane Lv 7	Scroll	Arcane Lv 7	Scroll (deflection)	2275 gp	13				
+Scroll	Arcane Lv 7	Scroll	Arcane Lv 7	Scroll (elemental body iv)	2275 gp	13				
+Scroll	Arcane Lv 7	Scroll	Arcane Lv 7	Scroll (firebrand)	2275 gp	13				
+Scroll	Arcane Lv 7	Scroll	Arcane Lv 7	Scroll (fly, mass)	2275 gp	13				
+Scroll	Arcane Lv 7	Scroll	Arcane Lv 7	Scroll (giant form i)	2275 gp	13				
+Scroll	Arcane Lv 7	Scroll	Arcane Lv 7	Scroll (grasping hand)	2275 gp	13				
+Scroll	Arcane Lv 7	Scroll	Arcane Lv 7	Scroll (hostile juxtaposition, greater)	2275 gp	13				
+Scroll	Arcane Lv 7	Scroll	Arcane Lv 7	Scroll (ice body)	2275 gp	13				
+Scroll	Arcane Lv 7	Scroll	Arcane Lv 7	Scroll (insanity)	2275 gp	13				
+Scroll	Arcane Lv 7	Scroll	Arcane Lv 7	Scroll (mage's magnificent mansion)	2275 gp	13				
+Scroll	Arcane Lv 7	Scroll	Arcane Lv 7	Scroll (phantasmal revenge)	2275 gp	13				
+Scroll	Arcane Lv 7	Scroll	Arcane Lv 7	Scroll (plague storm)	2275 gp	13				
+Scroll	Arcane Lv 7	Scroll	Arcane Lv 7	Scroll (plant shape iii)	2275 gp	13				
+Scroll	Arcane Lv 7	Scroll	Arcane Lv 7	Scroll (resonating word)	2275 gp	13				
+Scroll	Arcane Lv 7	Scroll	Arcane Lv 7	Scroll (sequester)	2275 gp	13				
+Scroll	Arcane Lv 7	Scroll	Arcane Lv 7	Scroll (statue)	2275 gp	13				
+Scroll	Arcane Lv 7	Scroll	Arcane Lv 7	Scroll (teleport object)	2275 gp	13				
+Scroll	Arcane Lv 7	Scroll	Arcane Lv 7	Scroll (walk through space)	2275 gp	13				
+Scroll	Arcane Lv 7	Scroll	Arcane Lv 7	Scroll (vision)	2525 gp	13				
+Scroll	Arcane Lv 7	Scroll	Arcane Lv 7	Scroll (instant summons)	3275 gp	13				
+Scroll	Arcane Lv 7	Scroll	Arcane Lv 7	Scroll (symbol of stunning)	7275 gp	13				
+Scroll	Arcane Lv 7	Scroll	Arcane Lv 7	Scroll (symbol of weakness)	7275 gp	13				
+Scroll	Arcane Lv 7	Scroll	Arcane Lv 7	Scroll (simulacrum)	8775 gp	13				
+Scroll	Arcane Lv 8	Scroll	Arcane Lv 8	Scroll (charm monster, mass)	3000 gp	15				
+Scroll	Arcane Lv 8	Scroll	Arcane Lv 8	Scroll (demand)	3000 gp	15				
+Scroll	Arcane Lv 8	Scroll	Arcane Lv 8	Scroll (dimensional lock)	3000 gp	15				
+Scroll	Arcane Lv 8	Scroll	Arcane Lv 8	Scroll (form of the dragon iii)	3000 gp	15				
+Scroll	Arcane Lv 8	Scroll	Arcane Lv 8	Scroll (horrid wilting)	3000 gp	15				
+Scroll	Arcane Lv 8	Scroll	Arcane Lv 8	Scroll (incendiary cloud)	3000 gp	15				
+Scroll	Arcane Lv 8	Scroll	Arcane Lv 8	Scroll (irresistible dance)	3000 gp	15				
+Scroll	Arcane Lv 8	Scroll	Arcane Lv 8	Scroll (maze)	3000 gp	15				
+Scroll	Arcane Lv 8	Scroll	Arcane Lv 8	Scroll (mind blank)	3000 gp	15				
+Scroll	Arcane Lv 8	Scroll	Arcane Lv 8	Scroll (planar binding, greater)	3000 gp	15				
+Scroll	Arcane Lv 8	Scroll	Arcane Lv 8	Scroll (polar ray)	3000 gp	15				
+Scroll	Arcane Lv 8	Scroll	Arcane Lv 8	Scroll (polymorph any object)	3000 gp	15				
+Scroll	Arcane Lv 8	Scroll	Arcane Lv 8	Scroll (power word stun)	3000 gp	15				
+Scroll	Arcane Lv 8	Scroll	Arcane Lv 8	Scroll (prismatic wall)	3000 gp	15				
+Scroll	Arcane Lv 8	Scroll	Arcane Lv 8	Scroll (scintillating pattern)	3000 gp	15				
+Scroll	Arcane Lv 8	Scroll	Arcane Lv 8	Scroll (summon monster viii)	3000 gp	15				
+Scroll	Arcane Lv 8	Scroll	Arcane Lv 8	Scroll (telekinetic sphere)	3000 gp	15				
+Scroll	Arcane Lv 8	Scroll	Arcane Lv 8	Scroll (protection from spells)	3500 gp	15				
+Scroll	Arcane Lv 8	Scroll	Arcane Lv 8	Scroll (symbol of death)	8000 gp	15				
+Scroll	Arcane Lv 8	Scroll	Arcane Lv 8	Scroll (temporal stasis)	8000 gp	15				
+Scroll	Arcane Lv 8	Scroll	Arcane Lv 8	Scroll (trap the soul)	23000 gp	15				
+Scroll	Arcane Lv 8	Scroll	Arcane Lv 8	Scroll (antipathy)	3000 gp	15				
+Scroll	Arcane Lv 8	Scroll	Arcane Lv 8	Scroll (clenched fist)	3000 gp	15				
+Scroll	Arcane Lv 8	Scroll	Arcane Lv 8	Scroll (clone)	3000 gp	15				
+Scroll	Arcane Lv 8	Scroll	Arcane Lv 8	Scroll (create demiplane)	3000 gp	15				
+Scroll	Arcane Lv 8	Scroll	Arcane Lv 8	Scroll (discern location)	3000 gp	15				
+Scroll	Arcane Lv 8	Scroll	Arcane Lv 8	Scroll (euphoric tranquility)	3000 gp	15				
+Scroll	Arcane Lv 8	Scroll	Arcane Lv 8	Scroll (frightful aspect)	3000 gp	15				
+Scroll	Arcane Lv 8	Scroll	Arcane Lv 8	Scroll (giant form ii)	3000 gp	15				
+Scroll	Arcane Lv 8	Scroll	Arcane Lv 8	Scroll (iron body)	3000 gp	15				
+Scroll	Arcane Lv 8	Scroll	Arcane Lv 8	Scroll (moment of prescience)	3000 gp	15				
+Scroll	Arcane Lv 8	Scroll	Arcane Lv 8	Scroll (orb of the void)	3000 gp	15				
+Scroll	Arcane Lv 8	Scroll	Arcane Lv 8	Scroll (pyrying eyes, greater)	3000 gp	15				
+Scroll	Arcane Lv 8	Scroll	Arcane Lv 8	Scroll (screen)	3000 gp	15				
+Scroll	Arcane Lv 8	Scroll	Arcane Lv 8	Scroll (shadow evocation, greater)	3000 gp	15				
+Scroll	Arcane Lv 8	Scroll	Arcane Lv 8	Scroll (shout, greater)	3000 gp	15				
+Scroll	Arcane Lv 8	Scroll	Arcane Lv 8	Scroll (stormbolts)	3000 gp	15				
+Scroll	Arcane Lv 8	Scroll	Arcane Lv 8	Scroll (sunburst)	3000 gp	15				
+Scroll	Arcane Lv 8	Scroll	Arcane Lv 8	Scroll (undead anatomy iv)	3000 gp	15				
+Scroll	Arcane Lv 8	Scroll	Arcane Lv 8	Scroll (wall of lava)	3000 gp	15				
+Scroll	Arcane Lv 8	Scroll	Arcane Lv 8	Scroll (create greater undead)	3150 gp	15				
+Scroll	Arcane Lv 8	Scroll	Arcane Lv 8	Scroll (sympathy)	4500 gp	15				
+Scroll	Arcane Lv 8	Scroll	Arcane Lv 8	Scroll (symbol of insanity)	8000 gp	15				
+Scroll	Arcane Lv 8	Scroll	Arcane Lv 8	Scroll (binding (chaining))	13000 gp	15				
+Scroll	Arcane Lv 9	Scroll	Arcane Lv 9	Scroll (dominate monster)	3825 gp	17				
+Scroll	Arcane Lv 9	Scroll	Arcane Lv 9	Scroll (energy drain)	3825 gp	17				
+Scroll	Arcane Lv 9	Scroll	Arcane Lv 9	Scroll (freedom)	3825 gp	17				
+Scroll	Arcane Lv 9	Scroll	Arcane Lv 9	Scroll (gate)	3825 gp	17				
+Scroll	Arcane Lv 9	Scroll	Arcane Lv 9	Scroll (hold monster, mass)	3825 gp	17				
+Scroll	Arcane Lv 9	Scroll	Arcane Lv 9	Scroll (imprisonment)	3825 gp	17				
+Scroll	Arcane Lv 9	Scroll	Arcane Lv 9	Scroll (mage's disjunction)	3825 gp	17				
+Scroll	Arcane Lv 9	Scroll	Arcane Lv 9	Scroll (meteor swarm)	3825 gp	17				
+Scroll	Arcane Lv 9	Scroll	Arcane Lv 9	Scroll (power word kill)	3825 gp	17				
+Scroll	Arcane Lv 9	Scroll	Arcane Lv 9	Scroll (prismatic sphere)	3825 gp	17				
+Scroll	Arcane Lv 9	Scroll	Arcane Lv 9	Scroll (shapechange)	3825 gp	17				
+Scroll	Arcane Lv 9	Scroll	Arcane Lv 9	Scroll (summon monster ix)	3825 gp	17				
+Scroll	Arcane Lv 9	Scroll	Arcane Lv 9	Scroll (time stop)	3825 gp	17				
+Scroll	Arcane Lv 9	Scroll	Arcane Lv 9	Scroll (weird)	3825 gp	17				
+Scroll	Arcane Lv 9	Scroll	Arcane Lv 9	Scroll (astral projection)	4825 gp	17				
+Scroll	Arcane Lv 9	Scroll	Arcane Lv 9	Scroll (teleportation circle)	4825 gp	17				
+Scroll	Arcane Lv 9	Scroll	Arcane Lv 9	Scroll (wish)	28825 gp	17				
+Scroll	Arcane Lv 9	Scroll	Arcane Lv 9	Scroll (create demiplane, greater)	3825 gp	17				
+Scroll	Arcane Lv 9	Scroll	Arcane Lv 9	Scroll (crushing hand)	3825 gp	17				
+Scroll	Arcane Lv 9	Scroll	Arcane Lv 9	Scroll (etherealness)	3825 gp	17				
+Scroll	Arcane Lv 9	Scroll	Arcane Lv 9	Scroll (fiery body)	3825 gp	17				
+Scroll	Arcane Lv 9	Scroll	Arcane Lv 9	Scroll (foresight)	3825 gp	17				
+Scroll	Arcane Lv 9	Scroll	Arcane Lv 9	Scroll (heroic invocation)	3825 gp	17				
+Scroll	Arcane Lv 9	Scroll	Arcane Lv 9	Scroll (icy prison, mass)	3825 gp	17				
+Scroll	Arcane Lv 9	Scroll	Arcane Lv 9	Scroll (ride the lightning)	3825 gp	17				
+Scroll	Arcane Lv 9	Scroll	Arcane Lv 9	Scroll (shades)	3825 gp	17				
+Scroll	Arcane Lv 9	Scroll	Arcane Lv 9	Scroll (soul bind)	3825 gp	17				
+Scroll	Arcane Lv 9	Scroll	Arcane Lv 9	Scroll (tsunami)	3825 gp	17				
+Scroll	Arcane Lv 9	Scroll	Arcane Lv 9	Scroll (wail of the banshee)	3825 gp	17				
+Scroll	Arcane Lv 9	Scroll	Arcane Lv 9	Scroll (winds of vengeance)	3825 gp	17				
+Scroll	Arcane Lv 9	Scroll	Arcane Lv 9	Scroll (refuge)	4325 gp	17				
+Scroll	Divine Lv 0	Scroll	Divine Lv 0	Scroll (bleed)	12 gp 5 sp	1				
+Scroll	Divine Lv 0	Scroll	Divine Lv 0	Scroll (create water)	12 gp 5 sp	1				
+Scroll	Divine Lv 0	Scroll	Divine Lv 0	Scroll (detect magic)	12 gp 5 sp	1				
+Scroll	Divine Lv 0	Scroll	Divine Lv 0	Scroll (know direction)	12 gp 5 sp	1				
+Scroll	Divine Lv 0	Scroll	Divine Lv 0	Scroll (light)	12 gp 5 sp	1				
+Scroll	Divine Lv 0	Scroll	Divine Lv 0	Scroll (mending)	12 gp 5 sp	1				
+Scroll	Divine Lv 0	Scroll	Divine Lv 0	Scroll (purify food and drink)	12 gp 5 sp	1				
+Scroll	Divine Lv 0	Scroll	Divine Lv 0	Scroll (read magic)	12 gp 5 sp	1				
+Scroll	Divine Lv 0	Scroll	Divine Lv 0	Scroll (stabilize)	12 gp 5 sp	1				
+Scroll	Divine Lv 0	Scroll	Divine Lv 0	Scroll (detect poison)	12 gp 5 sp	1				
+Scroll	Divine Lv 0	Scroll	Divine Lv 0	Scroll (flare)	12 gp 5 sp	1				
+Scroll	Divine Lv 0	Scroll	Divine Lv 0	Scroll (guidance)	12 gp 5 sp	1				
+Scroll	Divine Lv 0	Scroll	Divine Lv 0	Scroll (resistance)	12 gp 5 sp	1				
+Scroll	Divine Lv 0	Scroll	Divine Lv 0	Scroll (spark)	12 gp 5 sp	1				
+Scroll	Divine Lv 0	Scroll	Divine Lv 0	Scroll (virtue)	12 gp 5 sp	1				
+Scroll	Divine Lv 1	Scroll	Divine Lv 1	Scroll (bane)	25 gp	1				
+Scroll	Divine Lv 1	Scroll	Divine Lv 1	Scroll (bless)	25 gp	1				
+Scroll	Divine Lv 1	Scroll	Divine Lv 1	Scroll (cause fear)	25 gp	1				
+Scroll	Divine Lv 1	Scroll	Divine Lv 1	Scroll (command)	25 gp	1				
+Scroll	Divine Lv 1	Scroll	Divine Lv 1	Scroll (comprehend languages)	25 gp	1				
+Scroll	Divine Lv 1	Scroll	Divine Lv 1	Scroll (cure light wounds)	25 gp	1				
+Scroll	Divine Lv 1	Scroll	Divine Lv 1	Scroll (detect chaos)	25 gp	1				
+Scroll	Divine Lv 1	Scroll	Divine Lv 1	Scroll (detect evil)	25 gp	1				
+Scroll	Divine Lv 1	Scroll	Divine Lv 1	Scroll (detect good)	25 gp	1				
+Scroll	Divine Lv 1	Scroll	Divine Lv 1	Scroll (detect law)	25 gp	1				
+Scroll	Divine Lv 1	Scroll	Divine Lv 1	Scroll (detect undead)	25 gp	1				
+Scroll	Divine Lv 1	Scroll	Divine Lv 1	Scroll (divine favor)	25 gp	1				
+Scroll	Divine Lv 1	Scroll	Divine Lv 1	Scroll (doom)	25 gp	1				
+Scroll	Divine Lv 1	Scroll	Divine Lv 1	Scroll (entangle)	25 gp	1				
+Scroll	Divine Lv 1	Scroll	Divine Lv 1	Scroll (inflict light wounds)	25 gp	1				
+Scroll	Divine Lv 1	Scroll	Divine Lv 1	Scroll (magic fang)	25 gp	1				
+Scroll	Divine Lv 1	Scroll	Divine Lv 1	Scroll (obscuring mist)	25 gp	1				
+Scroll	Divine Lv 1	Scroll	Divine Lv 1	Scroll (produce flame)	25 gp	1				
+Scroll	Divine Lv 1	Scroll	Divine Lv 1	Scroll (protection from chaos)	25 gp	1				
+Scroll	Divine Lv 1	Scroll	Divine Lv 1	Scroll (protection from evil)	25 gp	1				
+Scroll	Divine Lv 1	Scroll	Divine Lv 1	Scroll (protection from good)	25 gp	1				
+Scroll	Divine Lv 1	Scroll	Divine Lv 1	Scroll (protection from law)	25 gp	1				
+Scroll	Divine Lv 1	Scroll	Divine Lv 1	Scroll (remove fear)	25 gp	1				
+Scroll	Divine Lv 1	Scroll	Divine Lv 1	Scroll (sanctuary)	25 gp	1				
+Scroll	Divine Lv 1	Scroll	Divine Lv 1	Scroll (shield of faith)	25 gp	1				
+Scroll	Divine Lv 1	Scroll	Divine Lv 1	Scroll (summon monster i)	25 gp	1				
+Scroll	Divine Lv 1	Scroll	Divine Lv 1	Scroll (summon nature's ally i)	25 gp	1				
+Scroll	Divine Lv 1	Scroll	Divine Lv 1	Scroll (ant haul)	25 gp	1				
+Scroll	Divine Lv 1	Scroll	Divine Lv 1	Scroll (aspect of the falcon)	25 gp	1				
+Scroll	Divine Lv 1	Scroll	Divine Lv 1	Scroll (calm animals)	25 gp	1				
+Scroll	Divine Lv 1	Scroll	Divine Lv 1	Scroll (charm animal)	25 gp	1				
+Scroll	Divine Lv 1	Scroll	Divine Lv 1	Scroll (compel hostility)	25 gp	1				
+Scroll	Divine Lv 1	Scroll	Divine Lv 1	Scroll (deathwatch)	25 gp	1				
+Scroll	Divine Lv 1	Scroll	Divine Lv 1	Scroll (detect animals or plants)	25 gp	1				
+Scroll	Divine Lv 1	Scroll	Divine Lv 1	Scroll (detect snares and pits)	25 gp	1				
+Scroll	Divine Lv 1	Scroll	Divine Lv 1	Scroll (diagnose disease)	25 gp	1				
+Scroll	Divine Lv 1	Scroll	Divine Lv 1	Scroll (endure elements)	25 gp	1				
+Scroll	Divine Lv 1	Scroll	Divine Lv 1	Scroll (entropic shield)	25 gp	1				
+Scroll	Divine Lv 1	Scroll	Divine Lv 1	Scroll (faerie fire)	25 gp	1				
+Scroll	Divine Lv 1	Scroll	Divine Lv 1	Scroll (feather step)	25 gp	1				
+Scroll	Divine Lv 1	Scroll	Divine Lv 1	Scroll (forbid action)	25 gp	1				
+Scroll	Divine Lv 1	Scroll	Divine Lv 1	Scroll (frostbite)	25 gp	1				
+Scroll	Divine Lv 1	Scroll	Divine Lv 1	Scroll (goodberry)	25 gp	1				
+Scroll	Divine Lv 1	Scroll	Divine Lv 1	Scroll (hide from animals)	25 gp	1				
+Scroll	Divine Lv 1	Scroll	Divine Lv 1	Scroll (hide from undead)	25 gp	1				
+Scroll	Divine Lv 1	Scroll	Divine Lv 1	Scroll (hydraulic push)	25 gp	1				
+Scroll	Divine Lv 1	Scroll	Divine Lv 1	Scroll (jump)	25 gp	1				
+Scroll	Divine Lv 1	Scroll	Divine Lv 1	Scroll (keen senses)	25 gp	1				
+Scroll	Divine Lv 1	Scroll	Divine Lv 1	Scroll (liberating command)	25 gp	1				
+Scroll	Divine Lv 1	Scroll	Divine Lv 1	Scroll (longstrider)	25 gp	1				
+Scroll	Divine Lv 1	Scroll	Divine Lv 1	Scroll (magic stone)	25 gp	1				
+Scroll	Divine Lv 1	Scroll	Divine Lv 1	Scroll (pass without trace)	25 gp	1				
+Scroll	Divine Lv 1	Scroll	Divine Lv 1	Scroll (remove sickness)	25 gp	1				
+Scroll	Divine Lv 1	Scroll	Divine Lv 1	Scroll (sanctify corpse)	25 gp	1				
+Scroll	Divine Lv 1	Scroll	Divine Lv 1	Scroll (shillelagh)	25 gp	1				
+Scroll	Divine Lv 1	Scroll	Divine Lv 1	Scroll (speak with animals)	25 gp	1				
+Scroll	Divine Lv 1	Scroll	Divine Lv 1	Scroll (stone fist)	25 gp	1				
+Scroll	Divine Lv 1	Scroll	Divine Lv 1	Scroll (stone shield)	25 gp	1				
+Scroll	Divine Lv 1	Scroll	Divine Lv 1	Scroll (sun metal)	25 gp	1				
+Scroll	Divine Lv 1	Scroll	Divine Lv 1	Scroll (touch of the sea)	25 gp	1				
+Scroll	Divine Lv 1	Scroll	Divine Lv 1	Scroll (bless water)	50 gp	1				
+Scroll	Divine Lv 1	Scroll	Divine Lv 1	Scroll (curse water)	50 gp	1				
+Scroll	Divine Lv 2	Scroll	Divine Lv 2	Scroll (aid)	150 gp	3				
+Scroll	Divine Lv 2	Scroll	Divine Lv 2	Scroll (align weapon)	150 gp	3				
+Scroll	Divine Lv 2	Scroll	Divine Lv 2	Scroll (animal messenger)	150 gp	3				
+Scroll	Divine Lv 2	Scroll	Divine Lv 2	Scroll (barkskin)	150 gp	3				
+Scroll	Divine Lv 2	Scroll	Divine Lv 2	Scroll (bear's endurance)	150 gp	3				
+Scroll	Divine Lv 2	Scroll	Divine Lv 2	Scroll (bull's strength)	150 gp	3				
+Scroll	Divine Lv 2	Scroll	Divine Lv 2	Scroll (cat's grace)	150 gp	3				
+Scroll	Divine Lv 2	Scroll	Divine Lv 2	Scroll (chill metal)	150 gp	3				
+Scroll	Divine Lv 2	Scroll	Divine Lv 2	Scroll (cure moderate wounds)	150 gp	3				
+Scroll	Divine Lv 2	Scroll	Divine Lv 2	Scroll (darkness)	150 gp	3				
+Scroll	Divine Lv 2	Scroll	Divine Lv 2	Scroll (delay poison)	150 gp	3				
+Scroll	Divine Lv 2	Scroll	Divine Lv 2	Scroll (eagle's splendor)	150 gp	3				
+Scroll	Divine Lv 2	Scroll	Divine Lv 2	Scroll (find traps)	150 gp	3				
+Scroll	Divine Lv 2	Scroll	Divine Lv 2	Scroll (flame blade)	150 gp	3				
+Scroll	Divine Lv 2	Scroll	Divine Lv 2	Scroll (fog cloud)	150 gp	3				
+Scroll	Divine Lv 2	Scroll	Divine Lv 2	Scroll (heat metal)	150 gp	3				
+Scroll	Divine Lv 2	Scroll	Divine Lv 2	Scroll (hold animal)	150 gp	3				
+Scroll	Divine Lv 2	Scroll	Divine Lv 2	Scroll (hold person)	150 gp	3				
+Scroll	Divine Lv 2	Scroll	Divine Lv 2	Scroll (inflict moderate wounds)	150 gp	3				
+Scroll	Divine Lv 2	Scroll	Divine Lv 2	Scroll (owl's wisdom)	150 gp	3				
+Scroll	Divine Lv 2	Scroll	Divine Lv 2	Scroll (remove paralysis)	150 gp	3				
+Scroll	Divine Lv 2	Scroll	Divine Lv 2	Scroll (resist energy)	150 gp	3				
+Scroll	Divine Lv 2	Scroll	Divine Lv 2	Scroll (restoration, lesser)	150 gp	3				
+Scroll	Divine Lv 2	Scroll	Divine Lv 2	Scroll (shield other)	150 gp	3				
+Scroll	Divine Lv 2	Scroll	Divine Lv 2	Scroll (silence)	150 gp	3				
+Scroll	Divine Lv 2	Scroll	Divine Lv 2	Scroll (sound burst)	150 gp	3				
+Scroll	Divine Lv 2	Scroll	Divine Lv 2	Scroll (spiritual weapon)	150 gp	3				
+Scroll	Divine Lv 2	Scroll	Divine Lv 2	Scroll (summon monster ii)	150 gp	3				
+Scroll	Divine Lv 2	Scroll	Divine Lv 2	Scroll (summon nature's ally ii)	150 gp	3				
+Scroll	Divine Lv 2	Scroll	Divine Lv 2	Scroll (summon swarm)	150 gp	3				
+Scroll	Divine Lv 2	Scroll	Divine Lv 2	Scroll (zone of truth)	150 gp	3				
+Scroll	Divine Lv 2	Scroll	Divine Lv 2	Scroll (augury)	175 gp	3				
+Scroll	Divine Lv 2	Scroll	Divine Lv 2	Scroll (animal aspect)	150 gp	3				
+Scroll	Divine Lv 2	Scroll	Divine Lv 2	Scroll (animal trance)	150 gp	3				
+Scroll	Divine Lv 2	Scroll	Divine Lv 2	Scroll (animate dead, lesser)	150 gp	3				
+Scroll	Divine Lv 2	Scroll	Divine Lv 2	Scroll (arrow of law)	150 gp	3				
+Scroll	Divine Lv 2	Scroll	Divine Lv 2	Scroll (aspect of the bear)	150 gp	3				
+Scroll	Divine Lv 2	Scroll	Divine Lv 2	Scroll (blessing of courage and life)	150 gp	3				
+Scroll	Divine Lv 2	Scroll	Divine Lv 2	Scroll (calm emotions)	150 gp	3				
+Scroll	Divine Lv 2	Scroll	Divine Lv 2	Scroll (death knell)	150 gp	3				
+Scroll	Divine Lv 2	Scroll	Divine Lv 2	Scroll (dread bolt)	150 gp	3				
+Scroll	Divine Lv 2	Scroll	Divine Lv 2	Scroll (effortless armor)	150 gp	3				
+Scroll	Divine Lv 2	Scroll	Divine Lv 2	Scroll (enthrall)	150 gp	3				
+Scroll	Divine Lv 2	Scroll	Divine Lv 2	Scroll (flaming sphere)	150 gp	3				
+Scroll	Divine Lv 2	Scroll	Divine Lv 2	Scroll (gentle repose)	150 gp	3				
+Scroll	Divine Lv 2	Scroll	Divine Lv 2	Scroll (grace)	150 gp	3				
+Scroll	Divine Lv 2	Scroll	Divine Lv 2	Scroll (groundswell)	150 gp	3				
+Scroll	Divine Lv 2	Scroll	Divine Lv 2	Scroll (gust of wind)	150 gp	3				
+Scroll	Divine Lv 2	Scroll	Divine Lv 2	Scroll (instant armor)	150 gp	3				
+Scroll	Divine Lv 2	Scroll	Divine Lv 2	Scroll (instrument of agony)	150 gp	3				
+Scroll	Divine Lv 2	Scroll	Divine Lv 2	Scroll (make whole)	150 gp	3				
+Scroll	Divine Lv 2	Scroll	Divine Lv 2	Scroll (reduce animal)	150 gp	3				
+Scroll	Divine Lv 2	Scroll	Divine Lv 2	Scroll (scent trail)	150 gp	3				
+Scroll	Divine Lv 2	Scroll	Divine Lv 2	Scroll (shard of chaos)	150 gp	3				
+Scroll	Divine Lv 2	Scroll	Divine Lv 2	Scroll (share language)	150 gp	3				
+Scroll	Divine Lv 2	Scroll	Divine Lv 2	Scroll (shatter)	150 gp	3				
+Scroll	Divine Lv 2	Scroll	Divine Lv 2	Scroll (soften earth and stone)	150 gp	3				
+Scroll	Divine Lv 2	Scroll	Divine Lv 2	Scroll (spear of purity)	150 gp	3				
+Scroll	Divine Lv 2	Scroll	Divine Lv 2	Scroll (spider climb)	150 gp	3				
+Scroll	Divine Lv 2	Scroll	Divine Lv 2	Scroll (status)	150 gp	3				
+Scroll	Divine Lv 2	Scroll	Divine Lv 2	Scroll (tree shape)	150 gp	3				
+Scroll	Divine Lv 2	Scroll	Divine Lv 2	Scroll (undetectable alignment)	150 gp	3				
+Scroll	Divine Lv 2	Scroll	Divine Lv 2	Scroll (warp wood)	150 gp	3				
+Scroll	Divine Lv 2	Scroll	Divine Lv 2	Scroll (weapon of awe)	150 gp	3				
+Scroll	Divine Lv 2	Scroll	Divine Lv 2	Scroll (wood shape)	150 gp	3				
+Scroll	Divine Lv 2	Scroll	Divine Lv 2	Scroll (consecrate)	175 gp	3				
+Scroll	Divine Lv 2	Scroll	Divine Lv 2	Scroll (desecrate)	175 gp	3				
+Scroll	Divine Lv 2	Scroll	Divine Lv 2	Scroll (fire trap)	175 gp	3				
+Scroll	Divine Lv 2	Scroll	Divine Lv 2	Scroll (masterwork transformation)	450 gp	3				
+Scroll	Divine Lv 3	Scroll	Divine Lv 3	Scroll (bestow curse)	375 gp	5				
+Scroll	Divine Lv 3	Scroll	Divine Lv 3	Scroll (call lightning)	375 gp	5				
+Scroll	Divine Lv 3	Scroll	Divine Lv 3	Scroll (cure serious wounds)	375 gp	5				
+Scroll	Divine Lv 3	Scroll	Divine Lv 3	Scroll (daylight)	375 gp	5				
+Scroll	Divine Lv 3	Scroll	Divine Lv 3	Scroll (deeper darkness)	375 gp	5				
+Scroll	Divine Lv 3	Scroll	Divine Lv 3	Scroll (dispel magic)	375 gp	5				
+Scroll	Divine Lv 3	Scroll	Divine Lv 3	Scroll (inflict serious wounds)	375 gp	5				
+Scroll	Divine Lv 3	Scroll	Divine Lv 3	Scroll (invisibility purge)	375 gp	5				
+Scroll	Divine Lv 3	Scroll	Divine Lv 3	Scroll (locate object)	375 gp	5				
+Scroll	Divine Lv 3	Scroll	Divine Lv 3	Scroll (magic circle against chaos)	375 gp	5				
+Scroll	Divine Lv 3	Scroll	Divine Lv 3	Scroll (magic circle against evil)	375 gp	5				
+Scroll	Divine Lv 3	Scroll	Divine Lv 3	Scroll (magic circle against good)	375 gp	5				
+Scroll	Divine Lv 3	Scroll	Divine Lv 3	Scroll (magic circle against law)	375 gp	5				
+Scroll	Divine Lv 3	Scroll	Divine Lv 3	Scroll (magic fang, greater)	375 gp	5				
+Scroll	Divine Lv 3	Scroll	Divine Lv 3	Scroll (magic vestment)	375 gp	5				
+Scroll	Divine Lv 3	Scroll	Divine Lv 3	Scroll (poison)	375 gp	5				
+Scroll	Divine Lv 3	Scroll	Divine Lv 3	Scroll (prayer)	375 gp	5				
+Scroll	Divine Lv 3	Scroll	Divine Lv 3	Scroll (protection from energy)	375 gp	5				
+Scroll	Divine Lv 3	Scroll	Divine Lv 3	Scroll (remove blindness/deafness)	375 gp	5				
+Scroll	Divine Lv 3	Scroll	Divine Lv 3	Scroll (remove curse)	375 gp	5				
+Scroll	Divine Lv 3	Scroll	Divine Lv 3	Scroll (remove disease)	375 gp	5				
+Scroll	Divine Lv 3	Scroll	Divine Lv 3	Scroll (searing light)	375 gp	5				
+Scroll	Divine Lv 3	Scroll	Divine Lv 3	Scroll (sleet storm)	375 gp	5				
+Scroll	Divine Lv 3	Scroll	Divine Lv 3	Scroll (speak with dead)	375 gp	5				
+Scroll	Divine Lv 3	Scroll	Divine Lv 3	Scroll (stone shape)	375 gp	5				
+Scroll	Divine Lv 3	Scroll	Divine Lv 3	Scroll (summon monster iii)	375 gp	5				
+Scroll	Divine Lv 3	Scroll	Divine Lv 3	Scroll (summon nature's ally iii)	375 gp	5				
+Scroll	Divine Lv 3	Scroll	Divine Lv 3	Scroll (water breathing)	375 gp	5				
+Scroll	Divine Lv 3	Scroll	Divine Lv 3	Scroll (water walk)	375 gp	5				
+Scroll	Divine Lv 3	Scroll	Divine Lv 3	Scroll (animate dead)	625 gp	5				
+Scroll	Divine Lv 3	Scroll	Divine Lv 3	Scroll (aqueous orb)	375 gp	5				
+Scroll	Divine Lv 3	Scroll	Divine Lv 3	Scroll (archon's aura)	375 gp	5				
+Scroll	Divine Lv 3	Scroll	Divine Lv 3	Scroll (bestow insight)	375 gp	5				
+Scroll	Divine Lv 3	Scroll	Divine Lv 3	Scroll (blindness/deafness)	375 gp	5				
+Scroll	Divine Lv 3	Scroll	Divine Lv 3	Scroll (burst of nettles)	375 gp	5				
+Scroll	Divine Lv 3	Scroll	Divine Lv 3	Scroll (chain of perdition)	375 gp	5				
+Scroll	Divine Lv 3	Scroll	Divine Lv 3	Scroll (contagion)	375 gp	5				
+Scroll	Divine Lv 3	Scroll	Divine Lv 3	Scroll (create food and water)	375 gp	5				
+Scroll	Divine Lv 3	Scroll	Divine Lv 3	Scroll (daybreak arrow)	375 gp	5				
+Scroll	Divine Lv 3	Scroll	Divine Lv 3	Scroll (diminish plants)	375 gp	5				
+Scroll	Divine Lv 3	Scroll	Divine Lv 3	Scroll (discovery torch)	375 gp	5				
+Scroll	Divine Lv 3	Scroll	Divine Lv 3	Scroll (dominate animal)	375 gp	5				
+Scroll	Divine Lv 3	Scroll	Divine Lv 3	Scroll (guiding star)	375 gp	5				
+Scroll	Divine Lv 3	Scroll	Divine Lv 3	Scroll (helping hand)	375 gp	5				
+Scroll	Divine Lv 3	Scroll	Divine Lv 3	Scroll (meld into stone)	375 gp	5				
+Scroll	Divine Lv 3	Scroll	Divine Lv 3	Scroll (obscure object)	375 gp	5				
+Scroll	Divine Lv 3	Scroll	Divine Lv 3	Scroll (plant growth)	375 gp	5				
+Scroll	Divine Lv 3	Scroll	Divine Lv 3	Scroll (quench)	375 gp	5				
+Scroll	Divine Lv 3	Scroll	Divine Lv 3	Scroll (shifting sands)	375 gp	5				
+Scroll	Divine Lv 3	Scroll	Divine Lv 3	Scroll (snare)	375 gp	5				
+Scroll	Divine Lv 3	Scroll	Divine Lv 3	Scroll (speak with plants)	375 gp	5				
+Scroll	Divine Lv 3	Scroll	Divine Lv 3	Scroll (spike growth)	375 gp	5				
+Scroll	Divine Lv 3	Scroll	Divine Lv 3	Scroll (vision of hell)	375 gp	5				
+Scroll	Divine Lv 3	Scroll	Divine Lv 3	Scroll (wind wall)	375 gp	5				
+Scroll	Divine Lv 3	Scroll	Divine Lv 3	Scroll (wrathful mantle)	375 gp	5				
+Scroll	Divine Lv 3	Scroll	Divine Lv 3	Scroll (continual flame)	425 gp	5				
+Scroll	Divine Lv 3	Scroll	Divine Lv 3	Scroll (nap stack)	475 gp	5				
+Scroll	Divine Lv 3	Scroll	Divine Lv 3	Scroll (glyph of warding)	575 gp	5				
+Scroll	Divine Lv 3	Scroll	Divine Lv 3	Scroll (symbol of healing)	875 gp	5				
+Scroll	Divine Lv 4	Scroll	Divine Lv 4	Scroll (air walk)	700 gp	7				
+Scroll	Divine Lv 4	Scroll	Divine Lv 4	Scroll (chaos hammer)	700 gp	7				
+Scroll	Divine Lv 4	Scroll	Divine Lv 4	Scroll (cure critical wounds)	700 gp	7				
+Scroll	Divine Lv 4	Scroll	Divine Lv 4	Scroll (death ward)	700 gp	7				
+Scroll	Divine Lv 4	Scroll	Divine Lv 4	Scroll (dimensional anchor)	700 gp	7				
+Scroll	Divine Lv 4	Scroll	Divine Lv 4	Scroll (discern lies)	700 gp	7				
+Scroll	Divine Lv 4	Scroll	Divine Lv 4	Scroll (dismissal)	700 gp	7				
+Scroll	Divine Lv 4	Scroll	Divine Lv 4	Scroll (divine power)	700 gp	7				
+Scroll	Divine Lv 4	Scroll	Divine Lv 4	Scroll (flame strike)	700 gp	7				
+Scroll	Divine Lv 4	Scroll	Divine Lv 4	Scroll (freedom of movement)	700 gp	7				
+Scroll	Divine Lv 4	Scroll	Divine Lv 4	Scroll (holy smite)	700 gp	7				
+Scroll	Divine Lv 4	Scroll	Divine Lv 4	Scroll (inflict critical wounds)	700 gp	7				
+Scroll	Divine Lv 4	Scroll	Divine Lv 4	Scroll (magic weapon, greater)	700 gp	7				
+Scroll	Divine Lv 4	Scroll	Divine Lv 4	Scroll (neutralize poison)	700 gp	7				
+Scroll	Divine Lv 4	Scroll	Divine Lv 4	Scroll (order's wrath)	700 gp	7				
+Scroll	Divine Lv 4	Scroll	Divine Lv 4	Scroll (poison)	700 gp	7				
+Scroll	Divine Lv 4	Scroll	Divine Lv 4	Scroll (spell immunity)	700 gp	7				
+Scroll	Divine Lv 4	Scroll	Divine Lv 4	Scroll (spike stones)	700 gp	7				
+Scroll	Divine Lv 4	Scroll	Divine Lv 4	Scroll (summon monster iv)	700 gp	7				
+Scroll	Divine Lv 4	Scroll	Divine Lv 4	Scroll (summon nature's ally iv)	700 gp	7				
+Scroll	Divine Lv 4	Scroll	Divine Lv 4	Scroll (tongues)	700 gp	7				
+Scroll	Divine Lv 4	Scroll	Divine Lv 4	Scroll (unholy blight)	700 gp	7				
+Scroll	Divine Lv 4	Scroll	Divine Lv 4	Scroll (divination)	725 gp	7				
+Scroll	Divine Lv 4	Scroll	Divine Lv 4	Scroll (planar ally, lesser)	1200 gp	7				
+Scroll	Divine Lv 4	Scroll	Divine Lv 4	Scroll (restoration)	1700 gp	7				
+Scroll	Divine Lv 4	Scroll	Divine Lv 4	Scroll (absorb toxicity)	700 gp	7				
+Scroll	Divine Lv 4	Scroll	Divine Lv 4	Scroll (antiplant shell)	700 gp	7				
+Scroll	Divine Lv 4	Scroll	Divine Lv 4	Scroll (aspect of the stag)	700 gp	7				
+Scroll	Divine Lv 4	Scroll	Divine Lv 4	Scroll (aura of doom)	700 gp	7				
+Scroll	Divine Lv 4	Scroll	Divine Lv 4	Scroll (ball lightning)	700 gp	7				
+Scroll	Divine Lv 4	Scroll	Divine Lv 4	Scroll (blessing of fervor)	700 gp	7				
+Scroll	Divine Lv 4	Scroll	Divine Lv 4	Scroll (blight)	700 gp	7				
+Scroll	Divine Lv 4	Scroll	Divine Lv 4	Scroll (command plants)	700 gp	7				
+Scroll	Divine Lv 4	Scroll	Divine Lv 4	Scroll (control water)	700 gp	7				
+Scroll	Divine Lv 4	Scroll	Divine Lv 4	Scroll (debilitating portent)	700 gp	7				
+Scroll	Divine Lv 4	Scroll	Divine Lv 4	Scroll (giant vermin)	700 gp	7				
+Scroll	Divine Lv 4	Scroll	Divine Lv 4	Scroll (ice storm)	700 gp	7				
+Scroll	Divine Lv 4	Scroll	Divine Lv 4	Scroll (imbue with spell ability)	700 gp	7				
+Scroll	Divine Lv 4	Scroll	Divine Lv 4	Scroll (plague carrier)	700 gp	7				
+Scroll	Divine Lv 4	Scroll	Divine Lv 4	Scroll (planar adaptation)	700 gp	7				
+Scroll	Divine Lv 4	Scroll	Divine Lv 4	Scroll (protection from energy, communal)	700 gp	7				
+Scroll	Divine Lv 4	Scroll	Divine Lv 4	Scroll (reincarnate)	700 gp	7				
+Scroll	Divine Lv 4	Scroll	Divine Lv 4	Scroll (repel vermin)	700 gp	7				
+Scroll	Divine Lv 4	Scroll	Divine Lv 4	Scroll (rusting grasp)	700 gp	7				
+Scroll	Divine Lv 4	Scroll	Divine Lv 4	Scroll (scrying)	700 gp	7				
+Scroll	Divine Lv 4	Scroll	Divine Lv 4	Scroll (sending)	700 gp	7				
+Scroll	Divine Lv 4	Scroll	Divine Lv 4	Scroll (spiritual ally)	700 gp	7				
+Scroll	Divine Lv 4	Scroll	Divine Lv 4	Scroll (thorn body)	700 gp	7				
+Scroll	Divine Lv 4	Scroll	Divine Lv 4	Scroll (volcanic storm)	700 gp	7				
+Scroll	Divine Lv 4	Scroll	Divine Lv 4	Scroll (symbol of slowing)	1700 gp	7				
+Scroll	Divine Lv 5	Scroll	Divine Lv 5	Scroll (animal growth)	1125 gp	9				
+Scroll	Divine Lv 5	Scroll	Divine Lv 5	Scroll (atonement)	1125 gp	9				
+Scroll	Divine Lv 5	Scroll	Divine Lv 5	Scroll (baleful polymorph)	1125 gp	9				
+Scroll	Divine Lv 5	Scroll	Divine Lv 5	Scroll (break enchantment)	1125 gp	9				
+Scroll	Divine Lv 5	Scroll	Divine Lv 5	Scroll (breath of life)	1125 gp	9				
+Scroll	Divine Lv 5	Scroll	Divine Lv 5	Scroll (call lightning storm)	1125 gp	9				
+Scroll	Divine Lv 5	Scroll	Divine Lv 5	Scroll (command, greater)	1125 gp	9				
+Scroll	Divine Lv 5	Scroll	Divine Lv 5	Scroll (cure light wounds, mass)	1125 gp	9				
+Scroll	Divine Lv 5	Scroll	Divine Lv 5	Scroll (death ward)	1125 gp	9				
+Scroll	Divine Lv 5	Scroll	Divine Lv 5	Scroll (disrupting weapon)	1125 gp	9				
+Scroll	Divine Lv 5	Scroll	Divine Lv 5	Scroll (inflict light wounds, mass)	1125 gp	9				
+Scroll	Divine Lv 5	Scroll	Divine Lv 5	Scroll (plane shift)	1125 gp	9				
+Scroll	Divine Lv 5	Scroll	Divine Lv 5	Scroll (righteous might)	1125 gp	9				
+Scroll	Divine Lv 5	Scroll	Divine Lv 5	Scroll (scrying)	1125 gp	9				
+Scroll	Divine Lv 5	Scroll	Divine Lv 5	Scroll (slay living)	1125 gp	9				
+Scroll	Divine Lv 5	Scroll	Divine Lv 5	Scroll (spell resistance)	1125 gp	9				
+Scroll	Divine Lv 5	Scroll	Divine Lv 5	Scroll (summon monster v)	1125 gp	9				
+Scroll	Divine Lv 5	Scroll	Divine Lv 5	Scroll (summon nature's ally v)	1125 gp	9				
+Scroll	Divine Lv 5	Scroll	Divine Lv 5	Scroll (tree stride)	1125 gp	9				
+Scroll	Divine Lv 5	Scroll	Divine Lv 5	Scroll (wall of fire)	1125 gp	9				
+Scroll	Divine Lv 5	Scroll	Divine Lv 5	Scroll (wall of stone)	1125 gp	9				
+Scroll	Divine Lv 5	Scroll	Divine Lv 5	Scroll (wall of thorns)	1125 gp	9				
+Scroll	Divine Lv 5	Scroll	Divine Lv 5	Scroll (true seeing)	1375 gp	9				
+Scroll	Divine Lv 5	Scroll	Divine Lv 5	Scroll (commune)	1625 gp	9				
+Scroll	Divine Lv 5	Scroll	Divine Lv 5	Scroll (awaken)	3125 gp	9				
+Scroll	Divine Lv 5	Scroll	Divine Lv 5	Scroll (raise dead)	6125 gp	9				
+Scroll	Divine Lv 5	Scroll	Divine Lv 5	Scroll (air walk, communal)	1125 gp	9				
+Scroll	Divine Lv 5	Scroll	Divine Lv 5	Scroll (aspect of the wolf)	1125 gp	9				
+Scroll	Divine Lv 5	Scroll	Divine Lv 5	Scroll (blessing of the salamander)	1125 gp	9				
+Scroll	Divine Lv 5	Scroll	Divine Lv 5	Scroll (cleanse)	1125 gp	9				
+Scroll	Divine Lv 5	Scroll	Divine Lv 5	Scroll (commune with nature)	1125 gp	9				
+Scroll	Divine Lv 5	Scroll	Divine Lv 5	Scroll (contagion, greater)	1125 gp	9				
+Scroll	Divine Lv 5	Scroll	Divine Lv 5	Scroll (control winds)	1125 gp	9				
+Scroll	Divine Lv 5	Scroll	Divine Lv 5	Scroll (dispel chaos)	1125 gp	9				
+Scroll	Divine Lv 5	Scroll	Divine Lv 5	Scroll (dispel evil)	1125 gp	9				
+Scroll	Divine Lv 5	Scroll	Divine Lv 5	Scroll (dispel good)	1125 gp	9				
+Scroll	Divine Lv 5	Scroll	Divine Lv 5	Scroll (dispel law)	1125 gp	9				
+Scroll	Divine Lv 5	Scroll	Divine Lv 5	Scroll (fickle winds)	1125 gp	9				
+Scroll	Divine Lv 5	Scroll	Divine Lv 5	Scroll (forbid action, greater)	1125 gp	9				
+Scroll	Divine Lv 5	Scroll	Divine Lv 5	Scroll (insect plague)	1125 gp	9				
+Scroll	Divine Lv 5	Scroll	Divine Lv 5	Scroll (life bubble)	1125 gp	9				
+Scroll	Divine Lv 5	Scroll	Divine Lv 5	Scroll (mark of justice)	1125 gp	9				
+Scroll	Divine Lv 5	Scroll	Divine Lv 5	Scroll (pillar of life)	1125 gp	9				
+Scroll	Divine Lv 5	Scroll	Divine Lv 5	Scroll (serenity)	1125 gp	9				
+Scroll	Divine Lv 5	Scroll	Divine Lv 5	Scroll (snake staff)	1125 gp	9				
+Scroll	Divine Lv 5	Scroll	Divine Lv 5	Scroll (spell immunity, communal)	1125 gp	9				
+Scroll	Divine Lv 5	Scroll	Divine Lv 5	Scroll (transmute mud to rock)	1125 gp	9				
+Scroll	Divine Lv 5	Scroll	Divine Lv 5	Scroll (transmute rock to mud)	1125 gp	9				
+Scroll	Divine Lv 5	Scroll	Divine Lv 5	Scroll (wind blades)	1125 gp	9				
+Scroll	Divine Lv 5	Scroll	Divine Lv 5	Scroll (stoneskin)	1375 gp	9				
+Scroll	Divine Lv 5	Scroll	Divine Lv 5	Scroll (hallow)	2125 gp	9				
+Scroll	Divine Lv 5	Scroll	Divine Lv 5	Scroll (symbol of pain)	2125 gp	9				
+Scroll	Divine Lv 5	Scroll	Divine Lv 5	Scroll (symbol of sleep)	2125 gp	9				
+Scroll	Divine Lv 5	Scroll	Divine Lv 5	Scroll (unhallow)	2125 gp	9				
+Scroll	Divine Lv 5	Scroll	Divine Lv 5	Scroll (hallow with 4th level)	6125 gp	9				
+Scroll	Divine Lv 5	Scroll	Divine Lv 5	Scroll (unhallow with 4th level)	6125 gp	9				
+Scroll	Divine Lv 6	Scroll	Divine Lv 6	Scroll (bear's endurance, mass)	1650 gp	11				
+Scroll	Divine Lv 6	Scroll	Divine Lv 6	Scroll (blade barrier)	1650 gp	11				
+Scroll	Divine Lv 6	Scroll	Divine Lv 6	Scroll (bull's strength, mass)	1650 gp	11				
+Scroll	Divine Lv 6	Scroll	Divine Lv 6	Scroll (cat's grace, mass)	1650 gp	11				
+Scroll	Divine Lv 6	Scroll	Divine Lv 6	Scroll (cure moderate wounds, mass)	1650 gp	11				
+Scroll	Divine Lv 6	Scroll	Divine Lv 6	Scroll (dispel magic, greater)	1650 gp	11				
+Scroll	Divine Lv 6	Scroll	Divine Lv 6	Scroll (eagle's splendor, mass)	1650 gp	11				
+Scroll	Divine Lv 6	Scroll	Divine Lv 6	Scroll (find the path)	1650 gp	11				
+Scroll	Divine Lv 6	Scroll	Divine Lv 6	Scroll (fire seeds)	1650 gp	11				
+Scroll	Divine Lv 6	Scroll	Divine Lv 6	Scroll (harm)	1650 gp	11				
+Scroll	Divine Lv 6	Scroll	Divine Lv 6	Scroll (heal)	1650 gp	11				
+Scroll	Divine Lv 6	Scroll	Divine Lv 6	Scroll (heroes' feast)	1650 gp	11				
+Scroll	Divine Lv 6	Scroll	Divine Lv 6	Scroll (inflict moderate wounds, mass)	1650 gp	11				
+Scroll	Divine Lv 6	Scroll	Divine Lv 6	Scroll (liveoak)	1650 gp	11				
+Scroll	Divine Lv 6	Scroll	Divine Lv 6	Scroll (owl's wisdom, mass)	1650 gp	11				
+Scroll	Divine Lv 6	Scroll	Divine Lv 6	Scroll (summon monster vi)	1650 gp	11				
+Scroll	Divine Lv 6	Scroll	Divine Lv 6	Scroll (summon nature's ally vi)	1650 gp	11				
+Scroll	Divine Lv 6	Scroll	Divine Lv 6	Scroll (word of recall)	1650 gp	11				
+Scroll	Divine Lv 6	Scroll	Divine Lv 6	Scroll (planar ally)	2900 gp	11				
+Scroll	Divine Lv 6	Scroll	Divine Lv 6	Scroll (animate objects)	1650 gp	11				
+Scroll	Divine Lv 6	Scroll	Divine Lv 6	Scroll (antilife shell)	1650 gp	11				
+Scroll	Divine Lv 6	Scroll	Divine Lv 6	Scroll (banishment)	1650 gp	11				
+Scroll	Divine Lv 6	Scroll	Divine Lv 6	Scroll (cold ice strike)	1650 gp	11				
+Scroll	Divine Lv 6	Scroll	Divine Lv 6	Scroll (dust form)	1650 gp	11				
+Scroll	Divine Lv 6	Scroll	Divine Lv 6	Scroll (geas/quest)	1650 gp	11				
+Scroll	Divine Lv 6	Scroll	Divine Lv 6	Scroll (ironwood)	1650 gp	11				
+Scroll	Divine Lv 6	Scroll	Divine Lv 6	Scroll (joyful rapture)	1650 gp	11				
+Scroll	Divine Lv 6	Scroll	Divine Lv 6	Scroll (move earth)	1650 gp	11				
+Scroll	Divine Lv 6	Scroll	Divine Lv 6	Scroll (plague storm)	1650 gp	11				
+Scroll	Divine Lv 6	Scroll	Divine Lv 6	Scroll (planar adaptation, mass)	1650 gp	11				
+Scroll	Divine Lv 6	Scroll	Divine Lv 6	Scroll (repel wood)	1650 gp	11				
+Scroll	Divine Lv 6	Scroll	Divine Lv 6	Scroll (sirocco)	1650 gp	11				
+Scroll	Divine Lv 6	Scroll	Divine Lv 6	Scroll (spellstaff)	1650 gp	11				
+Scroll	Divine Lv 6	Scroll	Divine Lv 6	Scroll (stone tell)	1650 gp	11				
+Scroll	Divine Lv 6	Scroll	Divine Lv 6	Scroll (swarm skin)	1650 gp	11				
+Scroll	Divine Lv 6	Scroll	Divine Lv 6	Scroll (tar pool)	1650 gp	11				
+Scroll	Divine Lv 6	Scroll	Divine Lv 6	Scroll (transport via plants)	1650 gp	11				
+Scroll	Divine Lv 6	Scroll	Divine Lv 6	Scroll (wind walk)	1650 gp	11				
+Scroll	Divine Lv 6	Scroll	Divine Lv 6	Scroll (create undead)	1750 gp	11				
+Scroll	Divine Lv 6	Scroll	Divine Lv 6	Scroll (glyph of warding, greater)	2050 gp	11				
+Scroll	Divine Lv 6	Scroll	Divine Lv 6	Scroll (undeath to death)	2150 gp	11				
+Scroll	Divine Lv 6	Scroll	Divine Lv 6	Scroll (symbol of fear)	2650 gp	11				
+Scroll	Divine Lv 6	Scroll	Divine Lv 6	Scroll (forbiddance)	4650 gp	11				
+Scroll	Divine Lv 6	Scroll	Divine Lv 6	Scroll (symbol of persuasion)	6650 gp	11				
+Scroll	Divine Lv 7	Scroll	Divine Lv 7	Scroll (blasphemy)	2275 gp	13				
+Scroll	Divine Lv 7	Scroll	Divine Lv 7	Scroll (control weather)	2275 gp	13				
+Scroll	Divine Lv 7	Scroll	Divine Lv 7	Scroll (creeping doom)	2275 gp	13				
+Scroll	Divine Lv 7	Scroll	Divine Lv 7	Scroll (cure serious wounds, mass)	2275 gp	13				
+Scroll	Divine Lv 7	Scroll	Divine Lv 7	Scroll (dictum)	2275 gp	13				
+Scroll	Divine Lv 7	Scroll	Divine Lv 7	Scroll (ethereal jaunt)	2275 gp	13				
+Scroll	Divine Lv 7	Scroll	Divine Lv 7	Scroll (fire storm)	2275 gp	13				
+Scroll	Divine Lv 7	Scroll	Divine Lv 7	Scroll (holy word)	2275 gp	13				
+Scroll	Divine Lv 7	Scroll	Divine Lv 7	Scroll (inflict serious wounds, mass)	2275 gp	13				
+Scroll	Divine Lv 7	Scroll	Divine Lv 7	Scroll (regenerate)	2275 gp	13				
+Scroll	Divine Lv 7	Scroll	Divine Lv 7	Scroll (repulsion)	2275 gp	13				
+Scroll	Divine Lv 7	Scroll	Divine Lv 7	Scroll (scrying, greater)	2275 gp	13				
+Scroll	Divine Lv 7	Scroll	Divine Lv 7	Scroll (summon monster vii)	2275 gp	13				
+Scroll	Divine Lv 7	Scroll	Divine Lv 7	Scroll (summon nature's ally vii)	2275 gp	13				
+Scroll	Divine Lv 7	Scroll	Divine Lv 7	Scroll (sunbeam)	2275 gp	13				
+Scroll	Divine Lv 7	Scroll	Divine Lv 7	Scroll (word of chaos)	2275 gp	13				
+Scroll	Divine Lv 7	Scroll	Divine Lv 7	Scroll (destruction)	2775 gp	13				
+Scroll	Divine Lv 7	Scroll	Divine Lv 7	Scroll (restoration, greater)	7275 gp	13				
+Scroll	Divine Lv 7	Scroll	Divine Lv 7	Scroll (resurrection)	12275 gp	13				
+Scroll	Divine Lv 7	Scroll	Divine Lv 7	Scroll (animate plants)	2275 gp	13				
+Scroll	Divine Lv 7	Scroll	Divine Lv 7	Scroll (changestaff)	2275 gp	13				
+Scroll	Divine Lv 7	Scroll	Divine Lv 7	Scroll (circle of clarity)	2275 gp	13				
+Scroll	Divine Lv 7	Scroll	Divine Lv 7	Scroll (create demiplane, lesser)	2275 gp	13				
+Scroll	Divine Lv 7	Scroll	Divine Lv 7	Scroll (jolting portent)	2275 gp	13				
+Scroll	Divine Lv 7	Scroll	Divine Lv 7	Scroll (rampart)	2275 gp	13				
+Scroll	Divine Lv 7	Scroll	Divine Lv 7	Scroll (scouring winds)	2275 gp	13				
+Scroll	Divine Lv 7	Scroll	Divine Lv 7	Scroll (siege of trees)	2275 gp	13				
+Scroll	Divine Lv 7	Scroll	Divine Lv 7	Scroll (transmute metal to wood)	2275 gp	13				
+Scroll	Divine Lv 7	Scroll	Divine Lv 7	Scroll (vortex)	2275 gp	13				
+Scroll	Divine Lv 7	Scroll	Divine Lv 7	Scroll (waves of ecstasy)	2275 gp	13				
+Scroll	Divine Lv 7	Scroll	Divine Lv 7	Scroll (refuge)	3775 gp	13				
+Scroll	Divine Lv 7	Scroll	Divine Lv 7	Scroll (symbol of stunning)	7275 gp	13				
+Scroll	Divine Lv 7	Scroll	Divine Lv 7	Scroll (symbol of weakness)	7275 gp	13				
+Scroll	Divine Lv 8	Scroll	Divine Lv 8	Scroll (antimagic field)	3000 gp	15				
+Scroll	Divine Lv 8	Scroll	Divine Lv 8	Scroll (cloak of chaos)	3000 gp	15				
+Scroll	Divine Lv 8	Scroll	Divine Lv 8	Scroll (cure critical wounds, mass)	3000 gp	15				
+Scroll	Divine Lv 8	Scroll	Divine Lv 8	Scroll (earthquake)	3000 gp	15				
+Scroll	Divine Lv 8	Scroll	Divine Lv 8	Scroll (finger of death)	3000 gp	15				
+Scroll	Divine Lv 8	Scroll	Divine Lv 8	Scroll (holy aura)	3000 gp	15				
+Scroll	Divine Lv 8	Scroll	Divine Lv 8	Scroll (inflict critical wounds, mass)	3000 gp	15				
+Scroll	Divine Lv 8	Scroll	Divine Lv 8	Scroll (reverse gravity)	3000 gp	15				
+Scroll	Divine Lv 8	Scroll	Divine Lv 8	Scroll (shield of law)	3000 gp	15				
+Scroll	Divine Lv 8	Scroll	Divine Lv 8	Scroll (spell immunity, greater)	3000 gp	15				
+Scroll	Divine Lv 8	Scroll	Divine Lv 8	Scroll (summon monster viii)	3000 gp	15				
+Scroll	Divine Lv 8	Scroll	Divine Lv 8	Scroll (summon nature's ally viii)	3000 gp	15				
+Scroll	Divine Lv 8	Scroll	Divine Lv 8	Scroll (sunburst)	3000 gp	15				
+Scroll	Divine Lv 8	Scroll	Divine Lv 8	Scroll (unholy aura)	3000 gp	15				
+Scroll	Divine Lv 8	Scroll	Divine Lv 8	Scroll (planar ally, greater)	5500 gp	15				
+Scroll	Divine Lv 8	Scroll	Divine Lv 8	Scroll (animal shapes)	3000 gp	15				
+Scroll	Divine Lv 8	Scroll	Divine Lv 8	Scroll (blood mist)	3000 gp	15				
+Scroll	Divine Lv 8	Scroll	Divine Lv 8	Scroll (control plants)	3000 gp	15				
+Scroll	Divine Lv 8	Scroll	Divine Lv 8	Scroll (create demiplane)	3000 gp	15				
+Scroll	Divine Lv 8	Scroll	Divine Lv 8	Scroll (dimensional lock)	3000 gp	15				
+Scroll	Divine Lv 8	Scroll	Divine Lv 8	Scroll (discern location)	3000 gp	15				
+Scroll	Divine Lv 8	Scroll	Divine Lv 8	Scroll (euphoric tranquility)	3000 gp	15				
+Scroll	Divine Lv 8	Scroll	Divine Lv 8	Scroll (frightful aspect)	3000 gp	15				
+Scroll	Divine Lv 8	Scroll	Divine Lv 8	Scroll (orb of the void)	3000 gp	15				
+Scroll	Divine Lv 8	Scroll	Divine Lv 8	Scroll (repel metal or stone)	3000 gp	15				
+Scroll	Divine Lv 8	Scroll	Divine Lv 8	Scroll (seamantle)	3000 gp	15				
+Scroll	Divine Lv 8	Scroll	Divine Lv 8	Scroll (storm bolts)	3000 gp	15				
+Scroll	Divine Lv 8	Scroll	Divine Lv 8	Scroll (whirlwind)	3000 gp	15				
+Scroll	Divine Lv 8	Scroll	Divine Lv 8	Scroll (create greater undead)	3150 gp	15				
+Scroll	Divine Lv 8	Scroll	Divine Lv 8	Scroll (symbol of death)	8000 gp	15				
+Scroll	Divine Lv 8	Scroll	Divine Lv 8	Scroll (symbol of insanity)	8000 gp	15				
+Scroll	Divine Lv 9	Scroll	Divine Lv 9	Scroll (elemental swarm)	3825 gp	17				
+Scroll	Divine Lv 9	Scroll	Divine Lv 9	Scroll (energy drain)	3825 gp	17				
+Scroll	Divine Lv 9	Scroll	Divine Lv 9	Scroll (etherealness)	3825 gp	17				
+Scroll	Divine Lv 9	Scroll	Divine Lv 9	Scroll (gate)	3825 gp	17				
+Scroll	Divine Lv 9	Scroll	Divine Lv 9	Scroll (heal, mass)	3825 gp	17				
+Scroll	Divine Lv 9	Scroll	Divine Lv 9	Scroll (implosion)	3825 gp	17				
+Scroll	Divine Lv 9	Scroll	Divine Lv 9	Scroll (miracle)	3825 gp	17				
+Scroll	Divine Lv 9	Scroll	Divine Lv 9	Scroll (shambler)	3825 gp	17				
+Scroll	Divine Lv 9	Scroll	Divine Lv 9	Scroll (shapechange)	3825 gp	17				
+Scroll	Divine Lv 9	Scroll	Divine Lv 9	Scroll (storm of vengeance)	3825 gp	17				
+Scroll	Divine Lv 9	Scroll	Divine Lv 9	Scroll (summon monster ix)	3825 gp	17				
+Scroll	Divine Lv 9	Scroll	Divine Lv 9	Scroll (summon nature's ally ix)	3825 gp	17				
+Scroll	Divine Lv 9	Scroll	Divine Lv 9	Scroll (true resurrection)	28825 gp	17				
+Scroll	Divine Lv 9	Scroll	Divine Lv 9	Scroll (antipathy)	3825 gp	17				
+Scroll	Divine Lv 9	Scroll	Divine Lv 9	Scroll (clashing rocks)	3825 gp	17				
+Scroll	Divine Lv 9	Scroll	Divine Lv 9	Scroll (create demiplane, greater)	3825 gp	17				
+Scroll	Divine Lv 9	Scroll	Divine Lv 9	Scroll (foresight)	3825 gp	17				
+Scroll	Divine Lv 9	Scroll	Divine Lv 9	Scroll (overwhelming presence)	3825 gp	17				
+Scroll	Divine Lv 9	Scroll	Divine Lv 9	Scroll (polar midnight)	3825 gp	17				
+Scroll	Divine Lv 9	Scroll	Divine Lv 9	Scroll (soul bind)	3825 gp	17				
+Scroll	Divine Lv 9	Scroll	Divine Lv 9	Scroll (spell immunity, greater)	3825 gp	17				
+Scroll	Divine Lv 9	Scroll	Divine Lv 9	Scroll (summon froghemoth)	3825 gp	17				
+Scroll	Divine Lv 9	Scroll	Divine Lv 9	Scroll (winds of vengeance)	3825 gp	17				
+Scroll	Divine Lv 9	Scroll	Divine Lv 9	Scroll (world wave)	3825 gp	17				
+Scroll	Divine Lv 9	Scroll	Divine Lv 9	Scroll (astral projection)	4825 gp	17				
+Scroll	Divine Lv 9	Scroll	Divine Lv 9	Scroll (sympathy)	5325 gp	17				
